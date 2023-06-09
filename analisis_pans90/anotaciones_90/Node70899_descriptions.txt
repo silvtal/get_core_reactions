@@ -1,0 +1,132 @@
+Acetyl-CoA carboxytransferase.
+Quinolinate synthase.
+Adenylosuccinate lyase.
+Ribose-phosphate diphosphokinase.
+Fumarate reductase (quinol).
+Pyruvate kinase.
+Phospho-N-acetylmuramoyl-pentapeptide-transferase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+CTP synthase (glutamine hydrolyzing).
+CTP synthase (glutamine hydrolyzing).
+3-deoxy-8-phosphooctulonate synthase.
+Glutamine--fructose-6-phosphate transaminase (isomerizing).
+5-amino-6-(5-phosphoribosylamino)uracil reductase.
+5-amino-6-(5-phosphoribosylamino)uracil reductase.
+Malate dehydrogenase (oxaloacetate-decarboxylating).
+Nicotinate-nucleotide diphosphorylase (carboxylating).
+Succinate dehydrogenase (quinone).
+Ribokinase.
+Pyruvate dehydrogenase (acetyl-transferring).
+Pyruvate dehydrogenase (acetyl-transferring).
+Dihydrolipoyllysine-residue succinyltransferase.
+Dihydrolipoyllysine-residue succinyltransferase.
+Branched-chain-amino-acid transaminase.
+Branched-chain-amino-acid transaminase.
+Branched-chain-amino-acid transaminase.
+Guanylate kinase.
+IMP dehydrogenase.
+Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating).
+Tetraacyldisaccharide 4'-kinase.
+UDP-2,3-diacylglucosamine diphosphatase.
+23S rRNA pseudouridine(1911/1915/1917) synthase.
+Thiamine phosphate synthase.
+Dihydrolipoyl dehydrogenase.
+Dihydroorotate dehydrogenase (NAD(+)).
+Methionine--tRNA ligase.
+Uroporphyrinogen-III C-methyltransferase.
+5-formyltetrahydrofolate cyclo-ligase.
+Homoserine dehydrogenase.
+Glutamine--tRNA ligase.
+Urocanate hydratase.
+Coproporphyrinogen dehydrogenase.
+Glycine dehydrogenase (aminomethyl-transferring).
+Phosphoribosyl-AMP cyclohydrolase.
+Holo-[acyl-carrier-protein] synthase.
+FMN hydrolase.
+Methionine synthase.
+Histidinol dehydrogenase.
+Phosphoribosyl-AMP cyclohydrolase.
+Phosphoglycerate mutase (2,3-diphosphoglycerate-independent).
+ATP phosphoribosyltransferase.
+5-(carboxyamino)imidazole ribonucleotide synthase.
+Cysteine--tRNA ligase.
+Glycine C-acetyltransferase.
+1-deoxy-D-xylulose-5-phosphate synthase.
+NAD(+) kinase.
+Isoleucine--tRNA ligase.
+Phenylalanine--tRNA ligase.
+Glycine hydroxymethyltransferase.
+Aspartate transaminase.
+Aspartate transaminase.
+Aspartate transaminase.
+Aspartate transaminase.
+Aspartate transaminase.
+Hypoxanthine phosphoribosyltransferase.
+Hypoxanthine phosphoribosyltransferase.
+Orotate phosphoribosyltransferase.
+Arginine decarboxylase.
+Diaminopimelate epimerase.
+Chorismate synthase.
+Xaa-Pro dipeptidase.
+Acetyl-CoA carboxytransferase.
+Aspartate--tRNA ligase.
+5-(carboxyamino)imidazole ribonucleotide mutase.
+XTP/dITP diphosphatase.
+Indole-3-glycerol-phosphate synthase.
+Acetyl-CoA C-acetyltransferase.
+Triose-phosphate isomerase.
+Dihydrofolate synthase.
+Dihydrofolate synthase.
+Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase.
+Thymidine kinase.
+Thymidine kinase.
+Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific).
+4-hydroxy-tetrahydrodipicolinate reductase.
+Aspartate-semialdehyde dehydrogenase.
+Ribulose-phosphate 3-epimerase.
+Valine--tRNA ligase.
+Transferred entry: 2.3.1.267.
+6,7-dimethyl-8-ribityllumazine synthase.
+6,7-dimethyl-8-ribityllumazine synthase.
+Glucose-1-phosphate thymidylyltransferase.
+Oxoglutarate dehydrogenase (succinyl-transferring).
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+Thioredoxin-disulfide reductase.
+Beta-ketoacyl-[acyl-carrier-protein] synthase II.
+UMP kinase.
+Glycine--tRNA ligase.
+Glutamate-1-semialdehyde 2,1-aminomutase.
+Phosphoenolpyruvate carboxykinase (ATP).
+Transferred entry: 7.1.2.2.
+Uracil phosphoribosyltransferase.
+Uridine/cytidine kinase.
+Asparagine--tRNA ligase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase.
+Polyphosphate kinase.
+Polyphosphate kinase.
+Fructose-bisphosphatase.
+Undecaprenyl-diphosphate phosphatase.
+Undecaprenyl-diphosphate phosphatase.
+Heptaprenyl diphosphate synthase.
+Thiamine-phosphate kinase.
+Aspartate carbamoyltransferase.
+Riboflavin synthase.
+Riboflavin synthase.
+ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+K07033; uncharacterized protein
+sufB; Fe-S cluster assembly protein SufB
+K07033; uncharacterized protein
+sufD; Fe-S cluster assembly protein SufD
+hisH; imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]
+sufC; Fe-S cluster assembly ATP-binding protein
+ATPF0C, atpE; F-type H+-transporting ATPase subunit c
+ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+tuf, TUFM; elongation factor Tu
+ganP, mdxF; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+ATPF1D, atpH; F-type H+-transporting ATPase subunit delta
+lptG; lipopolysaccharide export system permease protein

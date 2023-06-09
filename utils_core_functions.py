@@ -49,12 +49,15 @@ def consensus_eggnog(wd, outputdir, outputname="", perc=0.8, sep="\t"):
     @author: Silvia Talavera Marcos
     
     @parameters:
-    input_folder . Folder containing all annotated genomes for the target PCG; they
-                   must include "annotations" in their filename
+    input_folder . Folder containing all annotated genomes for the target PCG;
+                   they must include "annotations" in their filename
     output_folder . Where the consensus annotation file is going to be saved
     outputname . Output file name (.tsv extension will be added).
     perc . Percentage of files in which an annotation must be present to be
                  considered core; 0.80 (80%) by default
+                 
+    @original (script call): for NODE in $(ls $INPUTDIR/models); do ./consenso_EGG.py annotations_2022_12_14/$NODE"_annots" annotations_2022_12_14/ pan$NODE 0.9; done
+
     """
     
     import os
@@ -144,13 +147,13 @@ def consensus_eggnog(wd, outputdir, outputname="", perc=0.8, sep="\t"):
     # Guardo el archivo de anotaciones consenso
     # =============================================================================
     if not os.path.exists(outputdir):
-        os.mkdir(outputdir)
+        os.makedirs(outputdir)
     f = open(outputdir+"/"+outputname+".tsv","a+")
     
     f.write("# consensus annotation file for "+outputname+"\n")
     f.write("# time: "+str(datetime.datetime.now())+"\n")
     f.write("#query_name	seed_eggNOG_ortholog	seed_ortholog_evalue	seed_ortholog_score	best_tax_level	Preferred_name	GOs	EC	KEGG_ko	KEGG_Pathway	KEGG_Module	KEGG_Reaction	KEGG_rclass	BRITE	KEGG_TC	CAZy	BiGG_Reaction	taxonomic scope	eggNOG OGs	best eggNOG OG	COG Functional cat.	eggNOG free text desc.\n")
-    all_reactions.to_csv(f,sep=" ",header=False, index=False)
+    all_reactions.to_csv(f,sep="\t",header=False, index=False)
     
     f.close()
     

@@ -1,0 +1,38 @@
+Phospho-N-acetylmuramoyl-pentapeptide-transferase.
+Phosphoribosylformylglycinamidine cyclo-ligase.
+Pantothenate kinase.
+Ribose-phosphate diphosphokinase.
+Serine--tRNA ligase.
+IMP dehydrogenase.
+23S rRNA pseudouridine(1911/1915/1917) synthase.
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase.
+5-formyltetrahydrofolate cyclo-ligase.
+tRNA uracil 4-sulfurtransferase.
+Orotidine-5'-phosphate decarboxylase.
+Histidinol dehydrogenase.
+Phosphoglycerate mutase (2,3-diphosphoglycerate-independent).
+Cysteine--tRNA ligase.
+NAD(+) kinase.
+Phenylalanine--tRNA ligase.
+Glycine hydroxymethyltransferase.
+1-deoxy-D-xylulose-5-phosphate reductoisomerase.
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+Argininosuccinate synthase.
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin).
+Valine--tRNA ligase.
+Transferred entry: 2.3.1.267.
+Acetate kinase.
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+CTP synthase (glutamine hydrolyzing).
+Glutamine--fructose-6-phosphate transaminase (isomerizing).
+Phosphoglycerate kinase.
+UMP kinase.
+tRNA pseudouridine(55) synthase.
+Phosphoglucosamine mutase.
+Phosphoribosyl-AMP cyclohydrolase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase.
+ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
