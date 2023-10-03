@@ -1,0 +1,137 @@
+COG0055	C	FoF1-type ATP synthase, beta subunit	atpd	FoF1-type ATP synthase	nan	3OAA	NZ_PHQX01000001.1_3243
+COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	atpf	FoF1-type ATP synthase	nan	1B9U	NZ_PHQX01000001.1_3247
+COG2224	C	Isocitrate lyase	acea	TCA cycle, glyoxylate bypass	nan	1DQU	NZ_PHQX01000002.1_247
+COG0825	I	Acetyl-CoA carboxylase alpha subunit	acca	Fatty acid biosynthesis	nan	2F9I	NZ_PHQX01000001.1_809
+COG1488	H	Nicotinic acid phosphoribosyltransferase	pncb	NAD biosynthesis	nan	1VLP	NZ_PHQX01000001.1_44
+COG0764	I	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase	faba	Fatty acid biosynthesis	nan	1MKA	NZ_PHQX01000003.1_151
+COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	fabh	Fatty acid biosynthesis	nan	1UB7	NZ_PHQX01000001.1_339
+COG0015	F	Adenylosuccinate lyase	purb	Purine biosynthesis	nan	2HVG	NZ_PHQX01000001.1_2265
+COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	purf	Purine biosynthesis	nan	1ECB	NZ_PHQX01000001.1_284
+COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	fabb	Fatty acid biosynthesis	21652641	2UV8	NZ_PHQX01000003.1_150
+COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	hemf	Heme biosynthesis	nan	3E8J	NZ_PHQX01000001.1_3767
+COG0337	E	3-dehydroquinate synthetase	arob	Aromatic amino acid biosynthesis	nan	3ZOK	NZ_PHQX01000001.1_2692
+COG0752	J	Glycyl-tRNA synthetase, alpha subunit	glyq	Aminoacyl-tRNA synthetases	nan	1J5W	NZ_PHQX01000001.1_3817
+COG2959	R	Proteobacterial HemX domain, involved in 2-ketogluconate production (unrelated to B. subtilis HemX, COG0755, no evidence of involvement in heme biosynthesis)	hemx	nan	26256849	nan	NZ_PHQX01000002.1_189
+COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	ubie	Biotin biosynthesis	nan	4OBW	NZ_PHQX01000001.1_3186
+COG1384	J	Lysyl-tRNA synthetase, class I	lyss	Aminoacyl-tRNA synthetases	nan	1IRX	NZ_PHQX01000001.1_1567
+COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	ilvd	Isoleucine, leucine, valine biosynthesis	nan	2GP4	NZ_PHQX01000001.1_3683
+COG0504	F	CTP synthase (UTP-ammonia lyase)	pyrg	Pyrimidine biosynthesis	nan	1S1M	NZ_PHQX01000001.1_1106
+COG0018	J	Arginyl-tRNA synthetase	args	Aminoacyl-tRNA synthetases	nan	1BS2	NZ_PHQX01000002.1_366
+COG0150	F	Phosphoribosylaminoimidazole (AIR) synthetase	purm	Purine biosynthesis	nan	1CLI	NZ_PHQX01000001.1_421
+COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	folc	Folate biosynthesis	nan	1W78	NZ_PHQX01000001.1_281
+COG0134	E	Indole-3-glycerol phosphate synthase	trpc	Aromatic amino acid biosynthesis	nan	6BMA	NZ_PHQX01000001.1_3517
+COG0263	E	Glutamate 5-kinase	prob	Proline biosynthesis	nan	2W21	NZ_PHQX01000001.1_2360
+COG0172	J	Seryl-tRNA synthetase	sers	Aminoacyl-tRNA synthetases	nan	1SER	NZ_PHQX01000001.1_2174
+COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	dxr	Isoprenoid biosynthesis	nan	1JVS	NZ_PHQX01000001.1_819
+COG0505	EF	Carbamoylphosphate synthase small subunit	cara	Arginine biosynthesis	nan	1C30	NZ_PHQX01000001.1_1552
+COG0356	C	FoF1-type ATP synthase, membrane subunit a	atpb	FoF1-type ATP synthase	22931285	nan	NZ_PHQX01000001.1_3249
+COG0194	F	Guanylate kinase	gmk	nan	nan	1EX6	NZ_PHQX01000001.1_2988
+COG0461	F	Orotate phosphoribosyltransferase	pyre	Pyrimidine biosynthesis	nan	4WML	NZ_PHQX01000002.1_379
+COG0751	J	Glycyl-tRNA synthetase, beta subunit	glys	Aminoacyl-tRNA synthetases	nan	nan	NZ_PHQX01000001.1_3816
+COG0516	F	IMP dehydrogenase/GMP reductase	guab	Purine biosynthesis	nan	1B3O	NZ_PHQX01000001.1_1391
+COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	gapa	Glycolysis	nan	3ZDF	NZ_PHQX01000001.1_2945
+COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	murf	Mureine biosynthesis	nan	4CVK	NZ_PHQX01000001.1_87
+COG1985	H	Pyrimidine reductase, riboflavin biosynthesis	ribd	Riboflavin/FAD biosynthesis	nan	2O7P	NZ_PHQX01000001.1_57
+COG1934	M	Lipopolysaccharide export system protein LptA	lpta	nan	nan	2R19	NZ_PHQX01000001.1_408
+COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	mutt	nan	nan	4V14	NZ_PHQX01000001.1_99
+COG0763	M	Lipid A disaccharide synthetase	lpxb	Lipid A biosynthesis	nan	5W8N	NZ_PHQX01000001.1_813
+COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	lpxh	nan	nan	5WLY	NZ_PHQX01000001.1_288
+COG0082	E	Chorismate synthase	aroc	Aromatic amino acid biosynthesis	nan	1Q1L	NZ_PHQX01000001.1_2494
+COG0167	F	Dihydroorotate dehydrogenase	pyrd	Pyrimidine biosynthesis	nan	1GT8	NZ_PHQX01000001.1_1445
+COG0143	J	Methionyl-tRNA synthetase	metg	Aminoacyl-tRNA synthetases	nan	1A8H	NZ_PHQX01000001.1_2580
+COG1947	I	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	ispe	Isoprenoid biosynthesis	nan	1OJ4	NZ_PHQX01000001.1_201
+COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	rdgb	nan	nan	1B78	NZ_PHQX01000001.1_2992
+COG0181	H	Porphobilinogen deaminase	hemc	Heme biosynthesis	nan	1AH5	NZ_PHQX01000001.1_3262
+COG0013	J	Alanyl-tRNA synthetase	alas	Aminoacyl-tRNA synthetases	nan	2ZZE	NZ_PHQX01000001.1_1134
+COG2821	M	Membrane-bound lytic murein transglycosylase	mlta	nan	nan	2AE0	NZ_PHQX01000002.1_178
+COG0223	J	Methionyl-tRNA formyltransferase	fmt	nan	nan	1FMT	NZ_PHQX01000001.1_3387
+COG4206	H	Outer membrane cobalamin receptor protein BtuB	btub	nan	nan	1NQE	NZ_PHQX01000003.1_158
+COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	folk	Folate biosynthesis	nan	1CBK	NZ_PHQX01000001.1_1166
+COG1634	H	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase MptE (tetrahydrofolate and tetrahydromethanopterin biosynthesis)	folk	nan	22931285	nan	NZ_PHQX01000001.1_1166
+COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	glmu	nan	nan	3FWW	NZ_PHQX01000001.1_3238
+COG0414	H	Panthothenate synthetase	panc	Pantothenate/CoA biosynthesis	17968677	1DIN	NZ_PHQX01000001.1_1168
+COG2980	M	Outer membrane lipoprotein LptE/RlpB (LPS assembly)	lpte	nan	nan	2JXP	NZ_PHQX01000001.1_2565
+COG0525	J	Valyl-tRNA synthetase	vals	Aminoacyl-tRNA synthetases	nan	1GAX	NZ_PHQX01000001.1_18
+COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	isph	Isoprenoid biosynthesis	nan	3DNF	NZ_PHQX01000001.1_581
+COG1049	C	Aconitase B	acnb	TCA cycle	nan	1L5J	NZ_PHQX01000001.1_1581
+COG0639	T	Diadenosine tetraphosphatase ApaH/serine/threonine protein phosphatase, PP2A family	apah	nan	nan	1AUI	NZ_PHQX01000001.1_147
+COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	glns	Heme biosynthesis	nan	1EUQ	NZ_PHQX01000001.1_162
+COG0373	H	Glutamyl-tRNA reductase	hema	Heme biosynthesis	nan	2XOE	NZ_PHQX01000001.1_198
+COG1605	E	Chorismate mutase	phea	Aromatic amino acid biosynthesis	nan	1ECM	NZ_PHQX01000001.1_2178
+COG0151	F	Phosphoribosylamine-glycine ligase	purd	Purine biosynthesis	nan	1GSO	NZ_PHQX01000001.1_3464
+COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	spot	nan	nan	1TDJ	NZ_PHQX01000001.1_2986
+COG0104	F	Adenylosuccinate synthase	pura	Purine biosynthesis	nan	1ADE	NZ_PHQX01000001.1_2667
+COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	mure	Mureine biosynthesis	nan	1E8C	NZ_PHQX01000001.1_86
+COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	murj	nan	25013077	5T77	NZ_PHQX01000001.1_577
+COG0294	H	Dihydropteroate synthase	folp	Folate biosynthesis	nan	1AD1	NZ_PHQX01000001.1_1125
+COG0495	J	Leucyl-tRNA synthetase	leus	Aminoacyl-tRNA synthetases	nan	6LPF	NZ_PHQX01000001.1_2566
+COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	murc	Mureine biosynthesis	nan	nan	NZ_PHQX01000001.1_91
+COG0237	H	Dephospho-CoA kinase	coae	Pantothenate/CoA biosynthesis	nan	1JJV	NZ_PHQX01000001.1_2889
+COG0853	H	Aspartate 1-decarboxylase	pand	Pantothenate/CoA biosynthesis	nan	1AW8	NZ_PHQX01000001.1_1170
+COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	suhb	Gluconeogenesis	nan	1AWB	NZ_PHQX01000001.1_2385
+COG0321	H	Lipoate-protein ligase B	lipb	Lipoate biosynthesis	19798051	2QHT	NZ_PHQX01000001.1_3165
+COG1091	M	dTDP-4-dehydrorhamnose reductase	rfbd	nan	nan	1KBZ	NZ_PHQX01000003.1_206
+COG0026	F	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	purk	Purine biosynthesis	nan	1B6R	NZ_PHQX01000001.1_926
+COG1803	G	Methylglyoxal synthase	mgsa	nan	9665712	1S8A	NZ_PHQX01000002.1_127
+COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	tgt	tRNA modification	15805528	1XW8	NZ_PHQX01000001.1_1335
+COG0196	H	FAD synthase	ribf	Riboflavin/FAD biosynthesis	nan	1MRZ	NZ_PHQX01000001.1_578
+COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	pure	Purine biosynthesis	nan	1D7A	NZ_PHQX01000001.1_925
+COG3953	X	SLT domain protein	slt	nan	15608122	nan	NZ_PHQX01000001.1_3134
+COG4764	R	Predicted transglycosylase, contains SLT domain	slt	nan	nan	nan	NZ_PHQX01000001.1_3134
+COG0004	P	Ammonia channel protein AmtB	amtb	nan	nan	1U77	NZ_PHQX01000002.1_172
+COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	ppsa	Gluconeogenesis	nan	5HV6	NZ_PHQX01000001.1_2123
+COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	purh	Purine biosynthesis	nan	1G8M	NZ_PHQX01000001.1_3461
+COG0060	J	Isoleucyl-tRNA synthetase	iles	Aminoacyl-tRNA synthetases	nan	1FFY	NZ_PHQX01000001.1_579
+COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	lptd	nan	nan	4N4R	NZ_PHQX01000001.1_152
+COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	phet	Aminoacyl-tRNA synthetases	nan	3L4G	NZ_PHQX01000001.1_2436
+COG0019	E	Diaminopimelate decarboxylase	lysa	Lysine biosynthesis	nan	1D7K	NZ_PHQX01000001.1_462
+COG0355	C	FoF1-type ATP synthase, epsilon subunit	atpc	FoF1-type ATP synthase	29149348;30304218	3OAA	NZ_PHQX01000001.1_3242
+COG0372	C	Citrate synthase	glta	TCA cycle	25211225	3TQG	NZ_PHQX01000001.1_2979
+COG0112	E	Glycine/serine hydroxymethyltransferase	glya	Serine biosynthesis	nan	1BJ4	NZ_PHQX01000001.1_53
+COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	dapb	Lysine biosynthesis	29684280	1ARZ	NZ_PHQX01000001.1_1551
+COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	kdta	Lipid A biosynthesis	nan	2XCI	NZ_PHQX01000001.1_3063
+COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	bioa	Biotin biosynthesis	nan	1MLY	NZ_PHQX01000001.1_2744
+COG0757	E	3-dehydroquinate dehydratase	aroq	Aromatic amino acid biosynthesis	nan	1D0I	NZ_PHQX01000002.1_240
+COG0056	C	FoF1-type ATP synthase, alpha subunit	atpa	FoF1-type ATP synthase	nan	3OAA	NZ_PHQX01000001.1_3245
+COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	lpxa	Lipid A biosynthesis	nan	1J2Z	NZ_PHQX01000001.1_814
+COG0777	I	Acetyl-CoA carboxylase beta subunit	accd	Fatty acid biosynthesis	nan	2F9I	NZ_PHQX01000001.1_2478
+COG0173	J	Aspartyl-tRNA synthetase	asps	Aminoacyl-tRNA synthetases	nan	1C0A	NZ_PHQX01000001.1_2848
+COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	ispg	Isoprenoid biosynthesis	nan	2Y0F	NZ_PHQX01000001.1_1174
+COG2352	C	Phosphoenolpyruvate carboxylase	ppc	Urea cycle	nan	1FIY	NZ_PHQX01000001.1_116
+COG0442	J	Prolyl-tRNA synthetase	pros	Aminoacyl-tRNA synthetases	nan	5XIF	NZ_PHQX01000001.1_12
+COG0135	E	Phosphoribosylanthranilate isomerase	trpf	Aromatic amino acid biosynthesis	nan	1DL3	NZ_PHQX01000001.1_2488
+COG1587	H	Uroporphyrinogen-III synthase	hemd	Heme biosynthesis	nan	1JR2	NZ_PHQX01000002.1_190
+COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	trpe	Aromatic amino acid biosynthesis	nan	1I1Q	NZ_PHQX01000001.1_3521
+COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	trpd	Aromatic amino acid biosynthesis	nan	1KGZ	NZ_PHQX01000001.1_3518
+COG0162	J	Tyrosyl-tRNA synthetase	tyrs	Aminoacyl-tRNA synthetases	nan	4OUD	NZ_PHQX01000002.1_385
+COG0221	C	Inorganic pyrophosphatase	ppa	nan	nan	117E	NZ_PHQX01000001.1_3035
+COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	nrdb	Pyrimidine salvage	nan	1AV8	NZ_PHQX01000002.1_263
+COG0575	I	CDP-diglyceride synthetase	cdsa	Phospholipid biosynthesis	nan	4Q2E	NZ_PHQX01000001.1_820
+COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	phes	Aminoacyl-tRNA synthetases	nan	3L4G	NZ_PHQX01000001.1_2437
+COG0192	H	S-adenosylmethionine synthetase	metk	Methionine biosynthesis	nan	1FUG	NZ_PHQX01000001.1_118
+COG0174	E	Glutamine synthetase	glna	Glutamine biosynthesis	nan	1F1H	NZ_PHQX01000002.1_170
+COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	murg	Mureine biosynthesis	nan	1F0K	NZ_PHQX01000001.1_90
+COG0014	E	Gamma-glutamyl phosphate reductase	proa	Proline biosynthesis	nan	4GHK	NZ_PHQX01000001.1_2359
+COG0224	C	FoF1-type ATP synthase, gamma subunit	atpg	FoF1-type ATP synthase	15326535	3OAA	NZ_PHQX01000001.1_3244
+COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	suca	TCA cycle	nan	2JGD	NZ_PHQX01000001.1_2268
+COG0502	H	Biotin synthase or related enzyme	biob	Biotin biosynthesis	nan	1R30	NZ_PHQX01000001.1_3665
+COG0492	O	Thioredoxin reductase	trxb	nan	nan	3FBS	NZ_PHQX01000001.1_1669
+COG0669	H	Phosphopantetheine adenylyltransferase	coad	Pantothenate/CoA biosynthesis	nan	3F3M	NZ_PHQX01000001.1_1200
+COG0685	E	5,10-methylenetetrahydrofolate reductase	metf	nan	nan	1B5T	NZ_PHQX01000001.1_101
+COG0283	F	Cytidylate kinase	cmk	nan	19111750;25691594;28928205	3R20	NZ_PHQX01000001.1_1368
+COG0278	O	Glutaredoxin-related protein	grxd	nan	nan	1YKA	NZ_PHQX01000001.1_928
+COG0441	J	Threonyl-tRNA synthetase	thrs	Aminoacyl-tRNA synthetases	nan	1NYQ	NZ_PHQX01000001.1_2441
+COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ispf	Isoprenoid biosynthesis	nan	1GX1	NZ_PHQX01000001.1_1113
+COG0001	H	Glutamate-1-semialdehyde aminotransferase	heml	Heme biosynthesis	nan	2CFB	NZ_PHQX01000001.1_3008
+COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	purt	Purine biosynthesis	nan	1KJ8	NZ_PHQX01000001.1_559
+COG0611	H	Thiamine monophosphate kinase	thil	Thiamine biosynthesis	nan	5CC8	NZ_PHQX01000001.1_65
+COG0712	C	FoF1-type ATP synthase, delta subunit	atph	FoF1-type ATP synthase	nan	1ABV	NZ_PHQX01000001.1_3246
+COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	sure	nan	nan	2V4N	NZ_PHQX01000001.1_1116
+COG2171	E	Tetrahydrodipicolinate N-succinyltransferase	dapd	Lysine biosynthesis	nan	3BXY	NZ_PHQX01000001.1_835
+COG0126	G	3-phosphoglycerate kinase	pgk	Glycolysis	nan	13PK	NZ_PHQX01000001.1_2942
+COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	sera	Serine biosynthesis	nan	3OET	NZ_PHQX01000001.1_1530
+COG0511	I	Biotin carboxyl carrier protein	accb	Fatty acid biosynthesis	nan	1A6X	NZ_PHQX01000001.1_3448
+COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	pyrb	Pyrimidine biosynthesis	nan	1NBE	NZ_PHQX01000001.1_394
+COG1250	I	3-hydroxyacyl-CoA dehydrogenase	fadb	Fatty acid biosynthesis	nan	5ZQZ	NZ_PHQX01000001.1_1377
+COG0382	H	4-hydroxybenzoate polyprenyltransferase	ubia	Ubiquinone biosynthesis	28830929	4OD4	NZ_PHQX01000001.1_3644
+COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	lpxd	Lipid A biosynthesis	nan	6P83	NZ_PHQX01000001.1_816

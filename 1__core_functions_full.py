@@ -55,7 +55,7 @@ for node in nodes:
     
     # Obtain consensus annotations ============================================
     consensus_eggnog(annotations_folder, pangenome_folder, outputname="pan" + node, perc=perc)
-    consensus_file = pangenome_folder+"/pan" + node + ".tsv"
+    consensus_file = pangenome_folder+"/pan" + node + ".tsv"  # input from previous line
     
     # Initial parsing =========================================================
     # Parse consensus annotations

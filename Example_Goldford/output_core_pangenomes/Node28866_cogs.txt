@@ -1,0 +1,400 @@
+COG0364	G	Glucose-6-phosphate 1-dehydrogenase	zwf	Pentose phosphate pathway	18950999	5B7W	NZ_FNIK01000012.1_89
+COG1009	C	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	nuol	NADH dehydrogenase	nan	3RKO	NZ_FNIK01000024.1_42
+COG0839	C	NADH:ubiquinone oxidoreductase subunit 6 (chain J)	nuoj	NADH dehydrogenase	nan	4HE8	NZ_FNIK01000024.1_40
+COG1143	C	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	nuoi	NADH dehydrogenase	nan	1B0P	NZ_FNIK01000024.1_39
+COG0838	C	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	nuoa	NADH dehydrogenase	nan	3RKO	NZ_FNIK01000024.1_32
+COG0055	C	FoF1-type ATP synthase, beta subunit	atpd	FoF1-type ATP synthase	nan	3OAA	NZ_FNIK01000010.1_107
+COG0711	C	FoF1-type ATP synthase, membrane subunit b or b'	atpf	FoF1-type ATP synthase	nan	1B9U	NZ_FNIK01000010.1_103
+COG2224	C	Isocitrate lyase	acea	TCA cycle, glyoxylate bypass	nan	1DQU	NZ_FNIK01000024.1_31
+COG3023	M	N-acetyl-anhydromuramyl-L-alanine amidase AmpD	ampd	nan	nan	2Y28	NZ_FNIK01000003.1_115
+COG0825	I	Acetyl-CoA carboxylase alpha subunit	acca	Fatty acid biosynthesis	nan	2F9I	NZ_FNIK01000008.1_118
+COG0078	E	Ornithine carbamoyltransferase	argf	Arginine biosynthesis	nan	1A1S	NZ_FNCT01000005.1_146
+COG1114	E	Branched-chain amino acid permease	brnq	nan	nan	nan	NZ_FNIK01000007.1_141
+COG3125	C	Heme/copper-type cytochrome/quinol oxidase, subunit 4	cyod	nan	nan	nan	NZ_FNIK01000012.1_64
+COG1946	I	Acyl-CoA thioesterase	tesb	nan	nan	1C8U	NZ_FNIK01000003.1_222
+COG3194	F	Ureidoglycolate hydrolase (allantoin degradation)	alla	nan	nan	1XSQ	NZ_FNIK01000005.1_138
+COG0379	H	Quinolinate synthase	nada	NAD biosynthesis	24498065	4HHE	NZ_FNIK01000001.1_505
+COG4215	E	ABC-type arginine transport system, permease component	artq	nan	nan	nan	NZ_FNIK01000013.1_113
+COG1212	M	CMP-2-keto-3-deoxyoctulosonic acid synthetase	kdsb	Lipid A biosynthesis	nan	1VH1	NZ_FNIK01000001.1_700
+COG1488	H	Nicotinic acid phosphoribosyltransferase	pncb	NAD biosynthesis	nan	1VLP	NZ_FNIK01000004.1_86
+COG0431	C	NAD(P)H-dependent FMN reductase	ssue	nan	nan	6DQI	NZ_FNIK01000002.1_20
+COG0764	I	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase	faba	Fatty acid biosynthesis	nan	1MKA	NZ_FNIK01000007.1_135
+COG0015	F	Adenylosuccinate lyase	purb	Purine biosynthesis	nan	2HVG	NZ_FNIK01000024.1_27
+COG0229	O	Peptide methionine sulfoxide reductase MsrB	msrb	nan	nan	1L1D	NZ_FNIK01000001.1_454
+COG0558	I	Phosphatidylglycerophosphate synthase	pgsa	Phospholipid biosynthesis	nan	4MND	NZ_FNIK01000011.1_109
+COG1898	M	dTDP-4-dehydrorhamnose 3,5-epimerase or related enzyme	rfbc	nan	nan	1DZR	NZ_FNCT01000006.1_210
+COG1105	G	1-phosphofructokinase or 6-phosphofructokinase II	fruk	nan	nan	2ABQ	NZ_FNIK01000003.1_110
+COG0034	F	Glutamine phosphoribosylpyrophosphate amidotransferase	purf	Purine biosynthesis	nan	1ECB	NZ_FNIK01000001.1_732
+COG0031	E	Cysteine synthase	cysk	Cysteine biosynthesis	nan	1FCJ	NZ_FNIK01000001.1_544
+COG0408	H	Coproporphyrinogen-III oxidase HemH, oxygen-dependent	hemf	Heme biosynthesis	nan	3E8J	NZ_FNIK01000010.1_70
+COG0152	F	Phosphoribosylaminoimidazole-succinocarboxamide synthase	purc	Purine biosynthesis	nan	1A48	NZ_FNIK01000001.1_514
+COG0035	F	Uracil phosphoribosyltransferase	upp	Pyrimidine salvage	nan	2EHJ	NZ_FNIK01000016.1_77
+COG0299	F	Folate-dependent phosphoribosylglycinamide formyltransferase PurN	purn	Purine biosynthesis	25013077	1C2T	NZ_FNIK01000001.1_377
+COG0821	I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase IspG/GcpE	ispg	Isoprenoid biosynthesis	nan	2Y0F	NZ_FNIK01000012.1_17
+COG0854	H	Pyridoxine 5'-phosphate synthase PdxJ	pdxj	Pyridoxal phosphate biosynthesis	nan	1HO1	NZ_FNIK01000001.1_136
+COG0029	H	Aspartate oxidase	nadb	NAD biosynthesis	nan	1KNP	NZ_FNIK01000001.1_125
+COG1211	I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ispd	Isoprenoid biosynthesis	nan	1H3M	NZ_FNIK01000008.1_112
+COG3633	E	Na+/serine and Na+/threonine symporter SstT	sstt	nan	nan	nan	NZ_FNCT01000013.1_38
+COG0337	E	3-dehydroquinate synthetase	arob	Aromatic amino acid biosynthesis	nan	3ZOK	NZ_FNIK01000004.1_275
+COG0752	J	Glycyl-tRNA synthetase, alpha subunit	glyq	Aminoacyl-tRNA synthetases	nan	1J5W	NZ_FNIK01000010.1_81
+COG1869	G	D-ribose pyranose/furanose isomerase RbsD	rbsd	nan	nan	1OGC	NZ_FNIK01000011.1_15
+COG2959	R	Proteobacterial HemX domain, involved in 2-ketogluconate production (unrelated to B. subtilis HemX, COG0755, no evidence of involvement in heme biosynthesis)	hemx	nan	26256849	nan	NZ_FNIK01000009.1_116
+COG2226	H	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	ubie	Biotin biosynthesis	nan	4OBW	NZ_FNIK01000020.1_42
+COG3709	G	Ribose 1,5-bisphosphate kinase PhnN	phnn	nan	nan	nan	NZ_FNIK01000002.1_423
+COG1162	J	Ribosome biogenesis GTPase RsgA	rsga	nan	nan	1T9H	NZ_FNIK01000004.1_115
+COG0721	J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	gatc	Aminoacyl-tRNA synthetases	nan	3H0L	NZ_FNIK01000003.1_102
+COG0106	E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	hisa	Histidine biosynthesis	nan	4U28	NZ_FNIK01000013.1_82
+COG0129	EG	Dihydroxyacid dehydratase/phosphogluconate dehydratase	ilvd	Isoleucine, leucine, valine biosynthesis	nan	2GP4	NZ_FNIK01000004.1_293
+COG0504	F	CTP synthase (UTP-ammonia lyase)	pyrg	Pyrimidine biosynthesis	nan	1S1M	NZ_FNIK01000008.1_116
+COG3696	P	Cu/Ag efflux pump CusA	cusa	nan	nan	3K07	NZ_FNCT01000022.1_16
+COG0602	H	Organic radical activating enzyme NrdG/QueE	quee	tRNA modification	14660578;17384645	nan	NZ_FNIK01000008.1_60
+COG0150	F	Phosphoribosylaminoimidazole (AIR) synthetase	purm	Purine biosynthesis	nan	1CLI	NZ_FNIK01000001.1_378
+COG0285	H	Folylpolyglutamate synthase/Dihydropteroate synthase	folc	Folate biosynthesis	nan	1W78	NZ_FNIK01000001.1_729
+COG0134	E	Indole-3-glycerol phosphate synthase	trpc	Aromatic amino acid biosynthesis	nan	6BMA	NZ_FNIK01000017.1_15
+COG1893	H	Ketopantoate reductase	pane	Pantothenate/CoA biosynthesis	nan	1BG6	NZ_FNIK01000007.1_93
+COG0603	J	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	quec	tRNA modification	14660578;17384645	2PG3	NZ_FNIK01000008.1_59
+COG0172	J	Seryl-tRNA synthetase	sers	Aminoacyl-tRNA synthetases	nan	1SER	NZ_FNIK01000024.1_11
+COG0320	H	Lipoate synthase	lipa	Lipoate biosynthesis	27941785	4U0O	NZ_FNIK01000003.1_271
+COG3124	I	Acyl carrier protein phosphodiesterase	acph	nan	16107329	nan	NZ_FNIK01000001.1_34
+COG0600	P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	tauc	nan	nan	nan	NZ_FNIK01000013.1_37
+COG2303	IR	Choline dehydrogenase or related flavoprotein	beta	Non-phosphorylated Entner-Doudoroff pathway	nan	1B4V	NZ_FNIK01000004.1_223
+COG0771	M	UDP-N-acetylmuramoylalanine-D-glutamate ligase	murd	Mureine biosynthesis	nan	1E0D	NZ_FNIK01000003.1_38
+COG0440	E	Acetolactate synthase, small subunit	ilvh	Isoleucine, leucine, valine biosynthesis	nan	2F1F	NZ_FNIK01000021.1_85
+COG0505	EF	Carbamoylphosphate synthase small subunit	cara	Arginine biosynthesis	nan	1C30	NZ_FNIK01000021.1_34
+COG3072	T	Adenylate cyclase, class I	cyaa	nan	nan	nan	NZ_FNIK01000009.1_107
+COG1171	E	Threonine deaminase	ilva	Isoleucine, leucine, valine biosynthesis	nan	3IAU	NZ_FNIK01000013.1_1
+COG0356	C	FoF1-type ATP synthase, membrane subunit a	atpb	FoF1-type ATP synthase	22931285	nan	NZ_FNIK01000010.1_101
+COG0194	F	Guanylate kinase	gmk	nan	nan	1EX6	NZ_FNIK01000009.1_20
+COG0461	F	Orotate phosphoribosyltransferase	pyre	Pyrimidine biosynthesis	nan	4WML	NZ_FNIK01000009.1_53
+COG0751	J	Glycyl-tRNA synthetase, beta subunit	glys	Aminoacyl-tRNA synthetases	nan	nan	NZ_FNIK01000010.1_82
+COG0410	E	ABC-type branched-chain amino acid transport system, ATPase component LivF	livf	nan	26527648;32250026	1JI0	NZ_FNIK01000001.1_260
+COG0296	G	1,4-alpha-glucan branching enzyme	glgb	nan	25871919	4LPC	NZ_FNIK01000014.1_42
+COG0169	E	Shikimate 5-dehydrogenase	aroe	Aromatic amino acid biosynthesis	nan	1NPD	NZ_FNIK01000010.1_69
+COG0282	C	Acetate kinase	acka	nan	nan	3SK3	NZ_FNCT01000016.1_84
+COG1166	E	Arginine decarboxylase (spermidine biosynthesis)	spea	nan	nan	3N2O	NZ_FNIK01000017.1_66
+COG0810	M	Periplasmic protein TonB, links inner and outer membranes	tonb	nan	nan	1IHR	NZ_FNIK01000002.1_341
+COG0822	O	Fe-S cluster assembly scaffold protein IscU, NifU family	iscu	nan	nan	1Q48	NZ_FNIK01000012.1_27
+COG0316	O	Fe-S cluster assembly iron-binding protein IscA	isca	nan	nan	1R94	NZ_FNIK01000012.1_26
+COG0516	F	IMP dehydrogenase/GMP reductase	guab	Purine biosynthesis	nan	1B3O	NZ_FNIK01000012.1_3
+COG1131	V	ABC-type multidrug transport system, ATPase component	ccma	nan	nan	5DO7	NZ_FNIK01000006.1_120
+COG1664	Z	Cytoskeletal protein CcmA, bactofilin family	ccma	nan	nan	2N3D	NZ_FNIK01000006.1_120
+COG4133	O	ABC-type transport system involved in cytochrome c biogenesis, ATPase component	ccma	nan	nan	nan	NZ_FNIK01000006.1_120
+COG1048	C	Aconitase A	acna	Lysine biosynthesisTCA cycle	nan	1ACO	NZ_FNIK01000005.1_57
+COG0807	H	GTP cyclohydrolase II	riba	Riboflavin/FAD biosynthesis	nan	2BZ0	NZ_FNIK01000003.1_318
+COG0719	O	Fe-S cluster assembly scaffold protein SufB	sufb	nan	nan	1VH4	NZ_FNCT01000011.1_95
+COG0770	M	UDP-N-acetylmuramyl pentapeptide synthase	murf	Mureine biosynthesis	nan	4CVK	NZ_FNIK01000003.1_40
+COG1985	H	Pyrimidine reductase, riboflavin biosynthesis	ribd	Riboflavin/FAD biosynthesis	nan	2O7P	NZ_FNIK01000003.1_325
+COG2066	E	Glutaminase	glsa	nan	nan	1MKI	NZ_FNIK01000002.1_130
+COG1088	M	dTDP-D-glucose 4,6-dehydratase	rfbb	nan	nan	1G1A	NZ_FNIK01000016.1_111
+COG3114	U	Heme exporter protein D	ccmd	nan	nan	nan	NZ_FNIK01000006.1_123
+COG0654	HC	2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	ubih	Ubiquinone biosynthesis	nan	1BF3	NZ_FNIK01000009.1_157
+COG1934	M	Lipopolysaccharide export system protein LptA	lpta	nan	nan	2R19	NZ_FNCT01000018.1_25
+COG4213	G	ABC-type xylose transport system, periplasmic component	xylf	nan	nan	4YWH	NZ_FNIK01000005.1_274
+COG1763	H	Molybdopterin-guanine dinucleotide biosynthesis protein	mobb	Molybdopterin biosynthesis	32239579	1NP6	NZ_FNCT01000006.1_91
+COG4147	C	Na+(or H+)/acetate symporter ActP	actp	nan	nan	nan	NZ_FNIK01000001.1_592
+COG1663	M	Tetraacyldisaccharide-1-P 4'-kinase (Lipid A 4'-kinase)	lpxk	Lipid A biosynthesis	nan	4EHW	NZ_FNIK01000001.1_698
+COG4623	MT	Membrane-bound lytic murein transglycosylase MltF	mltf	nan	nan	4OWD	NZ_FNIK01000008.1_208
+COG0494	V	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	mutt	nan	nan	4V14	NZ_FNIK01000003.1_7
+COG0763	M	Lipid A disaccharide synthetase	lpxb	Lipid A biosynthesis	nan	5W8N	NZ_FNIK01000008.1_121
+COG1116	P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component	taub	nan	nan	nan	NZ_FNIK01000013.1_36
+COG4525	P	ABC-type taurine transport system, ATPase component	taub	nan	nan	nan	NZ_FNIK01000013.1_36
+COG1622	C	Heme/copper-type cytochrome/quinol oxidase, subunit 2	cyoa	nan	nan	1CYW	NZ_FNIK01000012.1_67
+COG0549	E	Carbamate kinase	arcc	nan	nan	2E9Y	NZ_FNCT01000005.1_147
+COG2908	M	UDP-2,3-diacylglucosamine pyrophosphatase LpxH	lpxh	nan	nan	5WLY	NZ_FNIK01000005.1_190
+COG1053	C	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	sdha	TCA cycle	nan	1KF6	NZ_FNIK01000007.1_148
+COG1977	H	Molybdopterin synthase sulfur carrier subunit MoaD	moad	Molybdopterin biosynthesis	32239579	1FM0	NZ_FNIK01000012.1_138
+COG2180	CPO	Nitrate reductase assembly protein NarJ, required for insertion of molybdenum cofactor	narj	nan	nan	nan	NZ_FNCT01000001.1_256
+COG1335	HR	Nicotinamidase-related amidase	pnca	Pyrimidine degradation	nan	1ILW	NZ_FNIK01000002.1_453
+COG0082	E	Chorismate synthase	aroc	Aromatic amino acid biosynthesis	nan	1Q1L	NZ_FNIK01000005.1_29
+COG1118	P	ABC-type sulfate/molybdate transport systems, ATPase component	cysa	nan	nan	nan	NZ_FNIK01000009.1_204
+COG0124	J	Histidyl-tRNA synthetase	hiss	Aminoacyl-tRNA synthetases	nan	1KMM	NZ_FNIK01000012.1_16
+COG4953	M	Membrane carboxypeptidase/penicillin-binding protein PbpC	pbpc	nan	nan	nan	NZ_FNCT01000002.1_255
+COG0426	C	Flavorubredoxin	norv	nan	nan	4JHC	NZ_FNCT01000027.1_19
+COG1773	P	Flavorubredoxin	norv	nan	nan	4D02	NZ_FNCT01000027.1_19
+COG0509	E	Glycine cleavage system protein H (lipoate-binding)	gcvh	Glycine cleavage	nan	1DXM	NZ_FNIK01000009.1_162
+COG0569	PT	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	trka	nan	23815639;25957408;31868587;32095817	4XTT	NZ_FNIK01000010.1_78
+COG0449	M	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	glms	nan	nan	2J6H	NZ_FNIK01000010.1_111
+COG0620	E	Methionine synthase II (cobalamin-independent)	mete	Methionine biosynthesis	nan	1T7L	NZ_FNIK01000001.1_174
+COG0554	C	Glycerol kinase	glpk	nan	nan	2ZF5	NZ_FNIK01000001.1_202
+COG4114	P	Ferric iron reductase protein FhuF, involved in iron transport	fhuf	nan	nan	nan	NZ_FNIK01000019.1_22
+COG0167	F	Dihydroorotate dehydrogenase	pyrd	Pyrimidine biosynthesis	nan	1GT8	NZ_FNIK01000007.1_58
+COG2181	CP	Nitrate reductase gamma subunit	nari	nan	nan	1Y5L	NZ_FNCT01000001.1_257
+COG1108	P	ABC-type Mn2+/Zn2+ transport system, permease component	znub	nan	nan	nan	NZ_FNIK01000010.1_48
+COG0143	J	Methionyl-tRNA synthetase	metg	Aminoacyl-tRNA synthetases	nan	1A8H	NZ_FNIK01000001.1_225
+COG1007	C	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	nuon	NADH dehydrogenase	nan	4HE8	NZ_FNIK01000024.1_44
+COG0493	ER	NADPH-dependent glutamate synthase beta chain or related oxidoreductase	gltd	Glutamine biosynthesis	nan	1H7X	NZ_FNIK01000004.1_272
+COG0452	H	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	coabc	Pantothenate/CoA biosynthesis	nan	3QJG	NZ_FNIK01000009.1_58
+COG4772	P	Outer membrane receptor for Fe3+-dicitrate	feca	nan	nan	1KMP	NZ_FNIK01000016.1_18
+COG0156	H	7-keto-8-aminopelargonate synthetase or related enzyme	biof	Biotin biosynthesis	nan	1BS0	NZ_FNIK01000018.1_66
+COG0132	H	Dethiobiotin synthetase	biod	Biotin biosynthesis	nan	1DTS	NZ_FNIK01000018.1_69
+COG1947	I	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	ispe	Isoprenoid biosynthesis	nan	1OJ4	NZ_FNIK01000016.1_101
+COG0127	F	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	rdgb	nan	nan	1B78	NZ_FNIK01000020.1_11
+COG4214	G	ABC-type xylose transport system, permease component	xylh	nan	nan	nan	NZ_FNIK01000005.1_272
+COG0181	H	Porphobilinogen deaminase	hemc	Heme biosynthesis	nan	1AH5	NZ_FNIK01000009.1_114
+COG4580	G	Maltoporin (phage lambda and maltose receptor)	lamb	nan	nan	1MPR	NZ_FNCT01000011.1_60
+COG4771	P	Outer membrane receptor for ferrienterochelin and colicins	fepa	nan	16468998	2HDF	NZ_FNIK01000011.1_40
+COG2377	M	1,6-Anhydro-N-acetylmuramate kinase	anmk	nan	15901686	3CQY	NZ_FNIK01000017.1_3
+COG0018	J	Arginyl-tRNA synthetase	args	Aminoacyl-tRNA synthetases	nan	1BS2	NZ_FNIK01000020.1_30
+COG0013	J	Alanyl-tRNA synthetase	alas	Aminoacyl-tRNA synthetases	nan	2ZZE	NZ_FNIK01000008.1_27
+COG2821	M	Membrane-bound lytic murein transglycosylase	mlta	nan	nan	2AE0	NZ_FNIK01000009.1_48
+COG0306	P	Phosphate/sulfate permease	pita	nan	31358606	nan	NZ_FNIK01000001.1_65
+COG0223	J	Methionyl-tRNA formyltransferase	fmt	nan	nan	1FMT	NZ_FNIK01000010.1_76
+COG0422	H	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	thic	Thiamine biosynthesis	15326535	3EPN	NZ_FNIK01000004.1_134
+COG0020	I	Undecaprenyl pyrophosphate synthase	upps	nan	nan	1X07	NZ_FNIK01000008.1_130
+COG4206	H	Outer membrane cobalamin receptor protein BtuB	btub	nan	nan	1NQE	NZ_FNCT01000007.1_69
+COG0852	C	NADH:ubiquinone oxidoreductase 27 kD subunit (chain C)	nuoc	NADH dehydrogenase	nan	nan	NZ_FNIK01000024.1_34
+COG0801	H	7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase (folate biosynthesis)	folk	Folate biosynthesis	nan	1CBK	NZ_FNIK01000021.1_62
+COG1634	H	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase MptE (tetrahydrofolate and tetrahydromethanopterin biosynthesis)	folk	nan	22931285	nan	NZ_FNIK01000021.1_62
+COG0755	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	ccmc	nan	nan	nan	NZ_FNIK01000006.1_122
+COG1539	H	Dihydroneopterin aldolase	folb	Folate biosynthesis	nan	1B9L	NZ_FNIK01000004.1_61
+COG0421	E	Spermidine synthase (polyamine aminopropyltransferase)	spee	nan	nan	6BQ2	NZ_FNIK01000005.1_18
+COG2755	DI	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	tesa	nan	nan	1BWP	NZ_FNIK01000007.1_100
+COG3048	E	D-serine dehydratase	dsda	nan	nan	3R0Z	NZ_FNCT01000014.1_7
+COG1207	M	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase	glmu	nan	nan	3FWW	NZ_FNIK01000010.1_109
+COG0253	E	Diaminopimelate epimerase	dapf	Lysine biosynthesis	nan	1BWZ	NZ_FNIK01000009.1_101
+COG1448	E	Aspartate/aromatic aminotransferase	tyrb	Isoleucine, leucine, valine biosynthesis	nan	1AAM	NZ_FNIK01000013.1_86
+COG0795	MN	Lipopolysaccharide export LptBFGC system, permease protein LptF	lptf	nan	nan	6S8H	NZ_FNIK01000012.1_116
+COG0414	H	Panthothenate synthetase	panc	Pantothenate/CoA biosynthesis	17968677	1DIN	NZ_FNIK01000021.1_60
+COG2980	M	Outer membrane lipoprotein LptE/RlpB (LPS assembly)	lpte	nan	nan	2JXP	NZ_FNIK01000003.1_267
+COG0396	O	Fe-S cluster assembly ATPase SufC	sufc	nan	nan	2D3W	NZ_FNCT01000011.1_94
+COG3724	E	Succinylarginine dihydrolase	astb	nan	nan	1YNF	NZ_FNIK01000008.1_32
+COG1183	I	Phosphatidylserine synthase	pssa	nan	nan	nan	NZ_FNIK01000002.1_32
+COG0859	M	ADP-heptose:LPS heptosyltransferase	rfaf	nan	nan	1PSW	NZ_FNIK01000004.1_156
+COG0525	J	Valyl-tRNA synthetase	vals	Aminoacyl-tRNA synthetases	nan	1GAX	NZ_FNIK01000012.1_120
+COG0761	I	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH	isph	Isoprenoid biosynthesis	nan	3DNF	NZ_FNIK01000003.1_174
+COG1049	C	Aconitase B	acnb	TCA cycle	nan	1L5J	NZ_FNIK01000005.1_197
+COG0308	E	Aminopeptidase N, contains DUF3458 domain	pepn	nan	24123841	6ATK	NZ_FNIK01000006.1_16
+COG0007	H	Uroporphyrinogen-III methylase (siroheme synthase)	cysg	Cobalamine/B12 biosynthesis	nan	1PJQ	NZ_FNIK01000024.1_10
+COG0008	J	Glutamyl- or glutaminyl-tRNA synthetase	glns	Heme biosynthesis	nan	1EUQ	NZ_FNIK01000005.1_188
+COG1252	C	NADH dehydrogenase, FAD-containing subunit	ndh	nan	nan	5NA4	NZ_FNIK01000003.1_150
+COG0720	H	6-pyruvoyl-tetrahydropterin synthase	qued	tRNA modification	14660578;17384645	1B66	NZ_FNIK01000024.1_50
+COG2513	G	2-Methylisocitrate lyase and related enzymes, PEP mutase family	prpb	nan	nan	1XG3	NZ_FNIK01000007.1_73
+COG0301	HJ	Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	thii	Thiamine biosynthesis	22773787	1VBK	NZ_FNIK01000004.1_300
+COG0373	H	Glutamyl-tRNA reductase	hema	Heme biosynthesis	nan	2XOE	NZ_FNIK01000016.1_98
+COG1605	E	Chorismate mutase	phea	Aromatic amino acid biosynthesis	nan	1ECM	NZ_FNIK01000001.1_423
+COG0151	F	Phosphoribosylamine-glycine ligase	purd	Purine biosynthesis	nan	1GSO	NZ_FNIK01000017.1_80
+COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	livg	nan	29514851	1G9X	NZ_FNIK01000001.1_261
+COG1519	M	3-deoxy-D-manno-octulosonic-acid transferase	kdta	Lipid A biosynthesis	nan	2XCI	NZ_FNIK01000004.1_136
+COG0317	TK	(p)ppGpp synthase/hydrolase, HD superfamily	spot	nan	nan	1TDJ	NZ_FNIK01000009.1_18
+COG0104	F	Adenylosuccinate synthase	pura	Purine biosynthesis	nan	1ADE	NZ_FNIK01000004.1_101
+COG0769	M	UDP-N-acetylmuramyl tripeptide synthase	mure	Mureine biosynthesis	nan	1E8C	NZ_FNIK01000003.1_41
+COG0728	M	Lipid II flippase MurJ/MviN (peptidoglycan biosynthesis)	murj	nan	25013077	5T77	NZ_FNIK01000003.1_179
+COG0284	F	Orotidine-5'-phosphate decarboxylase	pyrf	Pyrimidine biosynthesis	nan	1DBT	NZ_FNIK01000005.1_46
+COG0252	JE	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	ansa	nan	nan	1ZQ1	NZ_FNIK01000010.1_161
+COG2895	P	Sulfate adenylyltransferase subunit 1, EFTu-like GTPase family	cysn	Cysteine biosynthesis	nan	1ZUN	NZ_FNIK01000003.1_64
+COG0294	H	Dihydropteroate synthase	folp	Folate biosynthesis	nan	1AD1	NZ_FNIK01000021.1_41
+COG1995	H	4-hydroxy-L-threonine phosphate dehydrogenase PdxA	pdxa	Pyridoxal phosphate biosynthesis	nan	1PS6	NZ_FNIK01000004.1_51
+COG2386	O	ABC-type transport system involved in cytochrome c biogenesis, permease component	ccmb	nan	nan	nan	NZ_FNIK01000006.1_121
+COG0043	H	3-polyprenyl-4-hydroxybenzoate decarboxylase	ubid	Ubiquinone biosynthesis	28057757	2IDB	NZ_FNIK01000009.1_142
+COG4569	Q	Acetaldehyde dehydrogenase (acetylating)	mhpf	nan	nan	4JN6	NZ_FNCT01000001.1_475
+COG0753	P	Catalase	kate	nan	nan	6RJR	NZ_FNIK01000010.1_46
+COG2115	G	Xylose isomerase	xyla	nan	nan	1A0C	NZ_FNIK01000005.1_275
+COG0495	J	Leucyl-tRNA synthetase	leus	Aminoacyl-tRNA synthetases	nan	6LPF	NZ_FNIK01000003.1_266
+COG0800	G	2-keto-3-deoxy-6-phosphogluconate aldolase	eda	Entner-Doudoroff pathway	nan	2V81	NZ_FNIK01000012.1_87
+COG1472	G	Periplasmic beta-glucosidase and related glycosidases	bglx	nan	nan	2X40	NZ_FNIK01000001.1_88
+COG0773	M	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family	murc	Mureine biosynthesis	nan	nan	NZ_FNIK01000003.1_35
+COG0237	H	Dephospho-CoA kinase	coae	Pantothenate/CoA biosynthesis	nan	1JJV	NZ_FNIK01000003.1_138
+COG0157	H	Nicotinate-nucleotide pyrophosphorylase	nadc	NAD biosynthesis	nan	1O4U	NZ_FNIK01000003.1_117
+COG0853	H	Aspartate 1-decarboxylase	pand	Pantothenate/CoA biosynthesis	nan	1AW8	NZ_FNIK01000021.1_59
+COG0329	EM	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	dapa	Lysine biosynthesis	27574185	2R91	NZ_FNIK01000001.1_511
+COG0483	G	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	suhb	Gluconeogenesis	nan	1AWB	NZ_FNIK01000012.1_32
+COG1246	E	N-acetylglutamate synthase or related acetyltransferase, GNAT family	arga	Arginine biosynthesis	nan	2R98	NZ_FNIK01000009.1_171
+COG0136	E	Aspartate-semialdehyde dehydrogenase	asd	Lysine biosynthesis	nan	1BRM	NZ_FNIK01000007.1_171
+COG1921	J	Seryl-tRNA(Sec) selenium transferase	sela	nan	nan	3W1J	NZ_FNCT01000002.1_232
+COG0171	H	NH3-dependent NAD+ synthetase	nade	NAD biosynthesis	nan	3HMQ	NZ_FNIK01000004.1_87
+COG0696	G	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	gpmi	Glycolysis	nan	1EJJ	NZ_FNIK01000013.1_75
+COG0321	H	Lipoate-protein ligase B	lipb	Lipoate biosynthesis	19798051	2QHT	NZ_FNIK01000003.1_272
+COG1091	M	dTDP-4-dehydrorhamnose reductase	rfbd	nan	nan	1KBZ	NZ_FNIK01000016.1_112
+COG1267	I	Phosphatidylglycerophosphatase A	pgpa	Phospholipid biosynthesis	nan	1RFZ	NZ_FNIK01000003.1_319
+COG0026	F	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	purk	Purine biosynthesis	nan	1B6R	NZ_FNIK01000010.1_167
+COG0215	J	Cysteinyl-tRNA synthetase	cyss	Aminoacyl-tRNA synthetases	nan	1LI5	NZ_FNIK01000005.1_187
+COG1057	H	Nicotinate-nucleotide adenylyltransferase NadD	nadd	NAD biosynthesis	nan	1YUM	NZ_FNIK01000003.1_281
+COG1803	G	Methylglyoxal synthase	mgsa	nan	9665712	1S8A	NZ_FNCT01000011.1_109
+COG0623	I	Enoyl-[acyl-carrier-protein] reductase FabI	fabi	Fatty acid biosynthesis	nan	1C14	NZ_FNIK01000005.1_170
+COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	arge	Arginine biosynthesis	nan	1CG2	NZ_FNIK01000009.1_170
+COG2182	G	Maltose-binding periplasmic protein MalE	male	nan	nan	1T0K	NZ_FNCT01000011.1_54
+COG0343	J	Queuine/archaeosine tRNA-ribosyltransferase	tgt	tRNA modification	15805528	1XW8	NZ_FNIK01000012.1_37
+COG3790	S	Predicted membrane protein, encoded in cydAB operon	ybge	nan	nan	nan	NZ_FNCT01000002.1_5
+COG0249	L	DNA mismatch repair ATPase MutS	muts	nan	nan	1E3M	NZ_FNIK01000008.1_101
+COG0526	O	Thiol-disulfide isomerase or thioredoxin	trxa	nan	nan	1XFL	NZ_FNIK01000009.1_140
+COG1965	P	Fe-S cluster assembly protein CyaY, frataxin homolog	cyay	Cobalamine/B12 biosynthesis	nan	1EKG	NZ_FNIK01000009.1_104
+COG0473	CE	Isocitrate/isopropylmalate dehydrogenase	leub	TCA cycle	nan	1GC9	NZ_FNIK01000007.1_172
+COG0803	P	ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	znua	nan	nan	1K0F	NZ_FNIK01000010.1_51
+COG4531	P	ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA	znua	nan	nan	2OGW	NZ_FNIK01000010.1_51
+COG1034	C	NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit (chain G)	nuog	NADH dehydrogenase	nan	1C4A	NZ_FNIK01000024.1_37
+COG2937	I	Glycerol-3-phosphate O-acyltransferase	plsb	Phospholipid biosynthesis	nan	nan	NZ_FNIK01000008.1_148
+COG0196	H	FAD synthase	ribf	Riboflavin/FAD biosynthesis	nan	1MRZ	NZ_FNIK01000003.1_178
+COG0041	F	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	pure	Purine biosynthesis	nan	1D7A	NZ_FNIK01000010.1_166
+COG3953	X	SLT domain protein	slt	nan	15608122	nan	NZ_FNIK01000006.1_241
+COG4764	R	Predicted transglycosylase, contains SLT domain	slt	nan	nan	nan	NZ_FNIK01000006.1_241
+COG0416	I	Acyl-ACP:phosphate acyltransferase (fatty acid/phospholipid biosynthesis)	plsx	nan	18992246	2GK3	NZ_FNIK01000001.1_709
+COG2156	P	K+-transporting ATPase, KdpC subunit	kdpc	nan	nan	5MRW	NZ_FNIK01000007.1_120
+COG1932	HE	Phosphoserine aminotransferase	serc	Serine biosynthesis	nan	1BJN	NZ_FNIK01000001.1_422
+COG0331	I	Malonyl CoA-acyl carrier protein transacylase	fabd	Fatty acid biosynthesis	nan	1YXC	NZ_FNIK01000001.1_710
+COG0574	G	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	ppsa	Gluconeogenesis	nan	5HV6	NZ_FNIK01000007.1_68
+COG0138	F	AICAR transformylase/IMP cyclohydrolase PurH	purh	Purine biosynthesis	nan	1G8M	NZ_FNIK01000017.1_79
+COG1154	HI	Deoxyxylulose-5-phosphate synthase	dxs	Pyridoxal phosphate biosynthesis	nan	2O1S	NZ_FNIK01000003.1_316
+COG0815	M	Apolipoprotein N-acyltransferase	lnt	nan	nan	6NWR	NZ_FNIK01000003.1_263
+COG3925	GT	N-terminal domain of the PTS fructose-specific IIB component	frua	nan	nan	nan	NZ_FNIK01000003.1_109
+COG0061	H	NAD kinase	nadk	nan	nan	1SUW	NZ_FNIK01000006.1_11
+COG0274	F	Deoxyribose-phosphate aldolase	deoc	nan	nan	1J2W	NZ_FNIK01000021.1_77
+COG2032	P	Cu/Zn superoxide dismutase	sodc	nan	nan	1ESO	NZ_FNCT01000024.1_7
+COG2223	P	Nitrate/nitrite transporter NarK	nark	nan	nan	4JR9	NZ_FNCT01000001.1_597
+COG2079	G	2-methylcitrate dehydratase PrpD	prpd	nan	nan	1SZQ	NZ_FNCT01000001.1_137
+COG0060	J	Isoleucyl-tRNA synthetase	iles	Aminoacyl-tRNA synthetases	nan	1FFY	NZ_FNIK01000003.1_177
+COG0072	J	Phenylalanyl-tRNA synthetase beta subunit	phet	Aminoacyl-tRNA synthetases	nan	3L4G	NZ_FNIK01000011.1_26
+COG0280	C	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)	pta	nan	28754323	1QZT	NZ_FNIK01000016.1_51
+COG0376	P	Catalase (peroxidase I)	katg	nan	31337720	5SX1	NZ_FNIK01000011.1_44
+COG0355	C	FoF1-type ATP synthase, epsilon subunit	atpc	FoF1-type ATP synthase	29149348;30304218	3OAA	NZ_FNIK01000010.1_108
+COG4660	C	Na+-translocating ferredoxin:NAD+ oxidoreductase  RNF, RnfE subunit	rnfe	Na+-translocating Fd:NADH oxidoreductase	nan	nan	NZ_FNIK01000001.1_220
+COG0743	I	1-deoxy-D-xylulose 5-phosphate reductoisomerase	dxr	Isoprenoid biosynthesis	nan	1JVS	NZ_FNIK01000008.1_128
+COG0059	EH	Ketol-acid reductoisomerase	ilvc	Isoleucine, leucine, valine biosynthesis	nan	1NP3	NZ_FNIK01000021.1_86
+COG0548	E	N-acetylglutamate kinase	argb	Arginine biosynthesis	nan	3S6G	NZ_FNIK01000009.1_55
+COG2073	H	Cobalamin biosynthesis protein CbiG	cbig	Cobalamine/B12 biosynthesis	nan	nan	NZ_FNIK01000002.1_172
+COG0372	C	Citrate synthase	glta	TCA cycle	25211225	3TQG	NZ_FNIK01000007.1_151
+COG3278	C	Cbb3-type cytochrome oxidase, subunit 1	ccon	nan	nan	3MK7	NZ_FNIK01000005.1_71
+COG2993	C	Cbb3-type cytochrome oxidase, cytochrome c subunit FixO	ccoo	nan	nan	3MK7	NZ_FNIK01000005.1_72
+COG0112	E	Glycine/serine hydroxymethyltransferase	glya	Serine biosynthesis	nan	1BJ4	NZ_FNIK01000004.1_208
+COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	fabh	Fatty acid biosynthesis	nan	1UB7	NZ_FNIK01000001.1_276
+COG0289	E	4-hydroxy-tetrahydrodipicolinate reductase	dapb	Lysine biosynthesis	29684280	1ARZ	NZ_FNIK01000021.1_33
+COG2249	R	Putative NADPH-quinone reductase (modulator of drug activity B)	mdab	nan	nan	1D4A	NZ_FNIK01000022.1_51
+COG1210	M	UTP-glucose-1-phosphate uridylyltransferase	galu	nan	nan	2E3D	NZ_FNIK01000002.1_133
+COG0057	G	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	gapa	Glycolysis	nan	3ZDF	NZ_FNIK01000006.1_259
+COG0161	H	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	bioa	Biotin biosynthesis	nan	1MLY	NZ_FNIK01000018.1_42
+COG0757	E	3-dehydroquinate dehydratase	aroq	Aromatic amino acid biosynthesis	nan	1D0I	NZ_FNIK01000017.1_72
+COG0056	C	FoF1-type ATP synthase, alpha subunit	atpa	FoF1-type ATP synthase	nan	3OAA	NZ_FNIK01000010.1_105
+COG0713	C	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	nuok	NADH dehydrogenase	nan	4HE8	NZ_FNIK01000024.1_41
+COG1043	M	Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase	lpxa	Lipid A biosynthesis	nan	1J2Z	NZ_FNIK01000008.1_122
+COG0777	I	Acetyl-CoA carboxylase beta subunit	accd	Fatty acid biosynthesis	nan	2F9I	NZ_FNIK01000001.1_728
+COG0004	P	Ammonia channel protein AmtB	amtb	nan	nan	1U77	NZ_FNCT01000012.1_138
+COG0137	E	Argininosuccinate synthase	argg	Arginine biosynthesis	nan	1J1Z	NZ_FNIK01000001.1_215
+COG0173	J	Aspartyl-tRNA synthetase	asps	Aminoacyl-tRNA synthetases	nan	1C0A	NZ_FNIK01000008.1_72
+COG0232	F	dGTP triphosphohydrolase	dgt	nan	nan	6OI7	NZ_FNIK01000007.1_49
+COG0240	C	Glycerol-3-phosphate dehydrogenase	gpsa	Isoprenoid biosynthesis	nan	1EVY	NZ_FNIK01000007.1_133
+COG0079	E	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	hisc	Cobalamine/B12 biosynthesis	nan	4R2N	NZ_FNIK01000003.1_68
+COG1384	J	Lysyl-tRNA synthetase, class I	lyss	Aminoacyl-tRNA synthetases	nan	1IRX	NZ_FNIK01000008.1_169
+COG1640	G	4-alpha-glucanotransferase	malq	nan	nan	1CWY	NZ_FNIK01000002.1_147
+COG0259	H	Pyridoxine/pyridoxamine 5'-phosphate oxidase	pdxh	Pyridoxal phosphate biosynthesis	nan	1CI0	NZ_FNIK01000001.1_254
+COG2352	C	Phosphoenolpyruvate carboxylase	ppc	Urea cycle	nan	1FIY	NZ_FNIK01000008.1_161
+COG0442	J	Prolyl-tRNA synthetase	pros	Aminoacyl-tRNA synthetases	nan	5XIF	NZ_FNIK01000008.1_80
+COG0135	E	Phosphoribosylanthranilate isomerase	trpf	Aromatic amino acid biosynthesis	nan	1DL3	NZ_FNIK01000001.1_727
+COG0288	P	Carbonic anhydrase	cynt	nan	22081392	1EKJ	NZ_FNIK01000010.1_30
+COG1587	H	Uroporphyrinogen-III synthase	hemd	Heme biosynthesis	nan	1JR2	NZ_FNIK01000009.1_115
+COG0639	T	Diadenosine tetraphosphatase ApaH/serine/threonine protein phosphatase, PP2A family	apah	nan	nan	1AUI	NZ_FNIK01000004.1_54
+COG3842	E	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	pota	nan	nan	1Z47	NZ_FNIK01000004.1_42
+COG0147	EH	Anthranilate/para-aminobenzoate synthases component I	trpe	Aromatic amino acid biosynthesis	nan	1I1Q	NZ_FNIK01000004.1_36
+COG0547	E	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	trpd	Aromatic amino acid biosynthesis	nan	1KGZ	NZ_FNIK01000017.1_16
+COG0162	J	Tyrosyl-tRNA synthetase	tyrs	Aminoacyl-tRNA synthetases	nan	4OUD	NZ_FNIK01000017.1_1
+COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	ribb	Riboflavin/FAD biosynthesis	nan	1G57	NZ_FNIK01000003.1_323
+COG0221	C	Inorganic pyrophosphatase	ppa	nan	nan	117E	NZ_FNIK01000003.1_300
+COG1045	E	Serine acetyltransferase	cyse	Cysteine biosynthesis	nan	1T3D	NZ_FNIK01000012.1_30
+COG0580	G	Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family)	glpf	nan	nan	1FQY	NZ_FNIK01000001.1_203
+COG0208	F	Ribonucleotide reductase beta subunit, ferritin-like domain	nrdb	Pyrimidine salvage	nan	1AV8	NZ_FNIK01000001.1_342
+COG0175	EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	cysd	Cysteine biosynthesis	nan	1ZUN	NZ_FNIK01000003.1_65
+COG0563	F	Adenylate kinase or related kinase	adk	Pyrimidine biosynthesis	nan	1AK2	NZ_FNIK01000008.1_160
+COG2171	E	Tetrahydrodipicolinate N-succinyltransferase	dapd	Lysine biosynthesis	nan	3BXY	NZ_FNIK01000008.1_140
+COG0575	I	CDP-diglyceride synthetase	cdsa	Phospholipid biosynthesis	nan	4Q2E	NZ_FNIK01000008.1_129
+COG1052	CHR	Lactate dehydrogenase or related 2-hydroxyacid dehydrogenase	ldha	Pyridoxal phosphate biosynthesis	nan	1DXY	NZ_FNIK01000001.1_368
+COG0166	G	Glucose-6-phosphate isomerase	pgi	Glycolysis	nan	1B0Z	NZ_FNIK01000021.1_58
+COG0302	H	GTP cyclohydrolase I	fole	Folate biosynthesis	19767425;30692671	1A8R	NZ_FNIK01000005.1_36
+COG0016	J	Phenylalanyl-tRNA synthetase alpha subunit	phes	Aminoacyl-tRNA synthetases	nan	3L4G	NZ_FNIK01000011.1_25
+COG2230	I	Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases	cfa	nan	nan	5Z9O	NZ_FNIK01000016.1_90
+COG0804	E	Urease alpha subunit	urec	nan	nan	5A6T	NZ_FNIK01000017.1_108
+COG1760	E	L-serine deaminase	sdaa	nan	nan	4RQO	NZ_FNIK01000005.1_305
+COG3185	ER	4-hydroxyphenylpyruvate dioxygenase and related hemolysins	hppd	nan	nan	nan	NZ_FNIK01000006.1_212
+COG0277	C	FAD/FMN-containing lactate dehydrogenase/glycolate oxidase	glcd	nan	nan	1AHU	NZ_FNIK01000006.1_209
+COG0108	H	3,4-dihydroxy-2-butanone 4-phosphate synthase	ribb	Riboflavin/FAD biosynthesis	nan	1G57	NZ_FNIK01000002.1_238
+COG0538	C	Isocitrate dehydrogenase	icd	TCA cycle	nan	1IDD	NZ_FNIK01000024.1_22
+COG0304	IQ	3-oxoacyl-(acyl-carrier-protein) synthase	fabb	Fatty acid biosynthesis	21652641	2UV8	NZ_FNIK01000007.1_136
+COG0332	I	3-oxoacyl-[acyl-carrier-protein] synthase III	fabh	Fatty acid biosynthesis	nan	1UB7	NZ_FNIK01000006.1_77
+COG0013	J	Alanyl-tRNA synthetase	alas	Aminoacyl-tRNA synthetases	nan	2ZZE	NZ_FNCT01000013.1_23
+COG0149	G	Triosephosphate isomerase	tpia	Glycolysis	nan	1HG3	NZ_FNIK01000021.1_43
+COG0458	EF	Carbamoylphosphate synthase large subunit	carb	Arginine biosynthesis	nan	1C30	NZ_FNIK01000021.1_35
+COG0411	E	ABC-type branched-chain amino acid transport system, ATPase component LivG	livg	nan	29514851	1G9X	NZ_FNIK01000004.1_82
+COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	livh	nan	nan	nan	NZ_FNIK01000004.1_84
+COG0191	G	Fructose/tagatose bisphosphate aldolase	fba	Glycolysis	nan	1B57	NZ_FNIK01000004.1_175
+COG0192	H	S-adenosylmethionine synthetase	metk	Methionine biosynthesis	nan	1FUG	NZ_FNIK01000004.1_183
+COG0174	E	Glutamine synthetase	glna	Glutamine biosynthesis	nan	1F1H	NZ_FNIK01000004.1_301
+COG0262	H	Dihydrofolate reductase	fola	Folate biosynthesis	nan	1DDR	NZ_FNIK01000004.1_295
+COG0855	P	Polyphosphate kinase	ppk	nan	nan	1XDO	NZ_FNIK01000009.1_133
+COG2981	EP	Sulfate transporter CysZ	cysz	nan	24657232	3TX3	NZ_FNIK01000016.1_45
+COG1250	I	3-hydroxyacyl-CoA dehydrogenase	fadb	Fatty acid biosynthesis	nan	5ZQZ	NZ_FNIK01000006.1_245
+COG0707	M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase	murg	Mureine biosynthesis	nan	1F0K	NZ_FNIK01000003.1_36
+COG0014	E	Gamma-glutamyl phosphate reductase	proa	Proline biosynthesis	nan	4GHK	NZ_FNIK01000003.1_282
+COG0128	E	5-enolpyruvylshikimate-3-phosphate synthase	aroa	Aromatic amino acid biosynthesis	nan	4N3P	NZ_FNIK01000001.1_424
+COG3833	G	ABC-type maltose transport system, permease component MalG	malg	nan	nan	2R6G	NZ_FNCT01000011.1_52
+COG0019	E	Diaminopimelate decarboxylase	lysa	Lysine biosynthesis	nan	1D7K	NZ_FNIK01000009.1_102
+COG0224	C	FoF1-type ATP synthase, gamma subunit	atpg	FoF1-type ATP synthase	15326535	3OAA	NZ_FNIK01000010.1_106
+COG0002	E	N-acetyl-gamma-glutamylphosphate reductase	argc	Arginine biosynthesis	nan	3DR3	NZ_FNIK01000017.1_5
+COG1364	E	Glutamate N-acetyltransferase (ornithine transacetylase)	argj	Arginine biosynthesis	nan	1VRA	NZ_FNIK01000003.1_9
+COG0027	F	Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase)	purt	Purine biosynthesis	nan	1KJ8	NZ_FNIK01000008.1_199
+COG0567	C	2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes	suca	TCA cycle	nan	2JGD	NZ_FNIK01000007.1_146
+COG0502	H	Biotin synthase or related enzyme	biob	Biotin biosynthesis	nan	1R30	NZ_FNIK01000018.1_65
+COG2241	H	Precorrin-6B methylase 1	cobl	Cobalamine/B12 biosynthesis	nan	nan	NZ_FNIK01000017.1_91
+COG2242	H	Precorrin-6B methylase 2	cobl	Cobalamine/B12 biosynthesis	nan	1F38	NZ_FNIK01000017.1_91
+COG0560	E	Phosphoserine phosphatase	serb	Serine biosynthesis	nan	3N28	NZ_FNIK01000004.1_122
+COG0492	O	Thioredoxin reductase	trxb	nan	nan	3FBS	NZ_FNIK01000016.1_44
+COG5006	E	Threonine/homoserine efflux transporter RhtA	rhta	nan	nan	nan	NZ_FNIK01000002.1_1
+COG0837	G	Glucokinase	glk	Glycolysis	nan	1Q18	NZ_FNIK01000012.1_100
+COG0669	H	Phosphopantetheine adenylyltransferase	coad	Pantothenate/CoA biosynthesis	nan	3F3M	NZ_FNIK01000004.1_287
+COG0685	E	5,10-methylenetetrahydrofolate reductase	metf	nan	nan	1B5T	NZ_FNIK01000018.1_47
+COG0848	U	Biopolymer transport protein ExbD	exbd	nan	nan	2JWK	NZ_FNIK01000009.1_13
+COG1279	E	Arginine exporter protein ArgO	argo	nan	nan	nan	NZ_FNIK01000001.1_26
+COG0045	C	Succinyl-CoA synthetase, beta subunit	succ	TCA cycle	nan	1SCU	NZ_FNIK01000007.1_143
+COG0283	F	Cytidylate kinase	cmk	nan	19111750;25691594;28928205	3R20	NZ_FNIK01000001.1_425
+COG0506	E	Proline dehydrogenase	puta	Proline degradation	nan	5KF6	NZ_FNIK01000004.1_237
+COG0709	E	Selenophosphate synthase	seld	nan	nan	2YYE	NZ_FNCT01000001.1_85
+COG0278	O	Glutaredoxin-related protein	grxd	nan	nan	1YKA	NZ_FNIK01000001.1_209
+COG0441	J	Threonyl-tRNA synthetase	thrs	Aminoacyl-tRNA synthetases	nan	1NYQ	NZ_FNIK01000011.1_21
+COG1845	C	Heme/copper-type cytochrome/quinol oxidase, subunit 3	cyoc	nan	nan	1QLE	NZ_FNIK01000012.1_65
+COG0245	I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ispf	Isoprenoid biosynthesis	nan	1GX1	NZ_FNIK01000008.1_108
+COG0148	G	Enolase	eno	Glycolysis	nan	1E9I	NZ_FNIK01000008.1_114
+COG1586	E	S-adenosylmethionine decarboxylase	sped	nan	nan	1TLU	NZ_FNIK01000017.1_11
+COG0407	H	Uroporphyrinogen-III decarboxylase HemE	heme	Heme biosynthesis	nan	2DG5	NZ_FNIK01000004.1_271
+COG1114	E	Branched-chain amino acid permease	brnq	nan	nan	nan	NZ_FNCT01000001.1_43
+COG3937	QT	Polyhydroxyalkanoate synthesis regulator phasin	phaf	nan	nan	nan	NZ_FNIK01000002.1_45
+COG2056	E	Predicted histidine transporter YuiF, NhaC family	yuif	nan	15135544	nan	NZ_FNCT01000001.1_285
+COG0001	H	Glutamate-1-semialdehyde aminotransferase	heml	Heme biosynthesis	nan	2CFB	NZ_FNIK01000003.1_256
+COG0054	H	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	ribe	Riboflavin/FAD biosynthesis	nan	1C2Y	NZ_FNIK01000003.1_324
+COG0119	E	Isopropylmalate/homocitrate/citramalate synthases	leua	Isoleucine, leucine, valine biosynthesis	nan	4JN6	NZ_FNCT01000030.1_11
+COG2146	PQ	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	nird	nan	23844911	1FQT	NZ_FNCT01000001.1_150
+COG5013	CP	Nitrate reductase alpha subunit	narg	nan	nan	1Q16	NZ_FNCT01000001.1_254
+COG0546	C	Phosphoglycolate phosphatase, HAD superfamily	gph	nan	nan	2NYV	NZ_FNIK01000004.1_37
+COG0190	H	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	fold	nan	nan	1A4I	NZ_FNIK01000005.1_179
+COG1008	C	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	nuom	NADH dehydrogenase	nan	6HUM	NZ_FNIK01000024.1_43
+COG0611	H	Thiamine monophosphate kinase	thil	Thiamine biosynthesis	nan	5CC8	NZ_FNIK01000003.1_320
+COG1121	P	ABC-type Mn2+/Zn2+ transport system, ATPase component	znuc	nan	nan	nan	NZ_FNIK01000010.1_49
+COG0404	E	Glycine cleavage system protein T (aminomethyltransferase)	gcvt	Glycine cleavage	25433025;25505271	2GAH	NZ_FNIK01000009.1_161
+COG0559	E	Branched-chain amino acid ABC-type transport system, permease component	livh	nan	nan	nan	NZ_FNIK01000001.1_263
+COG3004	CP	Na+/H+ antiporter NhaA	nhaa	nan	25746996	1ZCD	NZ_FNIK01000001.1_256
+COG3445	H	Autonomous glycyl radical cofactor GrcA	grca	nan	nan	6OWR	NZ_FNCT01000001.1_500
+COG0439	I	Biotin carboxylase	accc	Fatty acid biosynthesis	nan	1BNC	NZ_FNIK01000017.1_74
+COG0712	C	FoF1-type ATP synthase, delta subunit	atph	FoF1-type ATP synthase	nan	1ABV	NZ_FNIK01000010.1_104
+COG0496	L	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	sure	nan	nan	2V4N	NZ_FNIK01000008.1_106
+COG2332	CO	Cytochrome c biogenesis protein CcmE	ccme	nan	nan	1J6Q	NZ_FNIK01000006.1_124
+COG3312	C	FoF1-type ATP synthase accessory protein AtpI	atpi	FoF1-type ATP synthase	18083842;23123906	nan	NZ_FNIK01000010.1_100
+COG0591	E	Na+/proline symporter	putp	nan	nan	5NVA	NZ_FNIK01000004.1_236
+COG2133	G	Glucose/arabinose dehydrogenase, beta-propeller fold	ylii	nan	nan	1C9U	NZ_FNIK01000001.1_306
+COG0126	G	3-phosphoglycerate kinase	pgk	Glycolysis	nan	13PK	NZ_FNIK01000004.1_179
+COG1172	G	Ribose/xylose/arabinose/galactoside ABC-type transport system, permease component	arah	nan	nan	nan	NZ_FNIK01000014.1_88
+COG0624	E	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase	arge	Arginine biosynthesis	nan	1CG2	NZ_FNIK01000005.1_102
+COG1905	C	NADH:ubiquinone oxidoreductase 24 kD subunit (chain E)	nuoe	NADH dehydrogenase	nan	5XF9	NZ_FNIK01000024.1_35
+COG0377	C	NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	nuob	NADH dehydrogenase	25941396	2FUG	NZ_FNIK01000024.1_33
+COG0111	H	Phosphoglycerate dehydrogenase or related dehydrogenase	sera	Serine biosynthesis	nan	3OET	NZ_FNIK01000013.1_7
+COG0511	I	Biotin carboxyl carrier protein	accb	Fatty acid biosynthesis	nan	1A6X	NZ_FNIK01000017.1_73
+COG3839	G	ABC-type sugar transport system, ATPase component MalK	malk	nan	nan	2ONK	NZ_FNCT01000011.1_49
+COG4594	P	ABC-type Fe3+-citrate transport system, periplasmic component	fecb	nan	nan	nan	NZ_FNIK01000004.1_18
+COG1301	C	Na+/H+-dicarboxylate symporter	gltp	nan	nan	1XFH	NZ_FNIK01000009.1_3
+COG0109	HI	Polyprenyltransferase (heme O synthase)	cyoe	nan	nan	nan	NZ_FNIK01000012.1_63
+COG1893	H	Ketopantoate reductase	pane	Pantothenate/CoA biosynthesis	nan	1BG6	NZ_FNIK01000003.1_4
+COG0540	F	Aspartate carbamoyltransferase, catalytic subunit	pyrb	Pyrimidine biosynthesis	nan	1NBE	NZ_FNIK01000018.1_4
+COG1169	HQ	Isochorismate synthase EntC	menf	Menaquinone biosynthesis	nan	5JXZ	NZ_FNIK01000002.1_261
+COG1488	H	Nicotinic acid phosphoribosyltransferase	pncb	NAD biosynthesis	nan	1VLP	NZ_FNCT01000001.1_540
+COG0141	E	Histidinol dehydrogenase	hisd	Histidine biosynthesis	nan	1K75	NZ_FNIK01000003.1_69
+COG2180	CPO	Nitrate reductase assembly protein NarJ, required for insertion of molybdenum cofactor	narj	nan	nan	nan	NZ_FNCT01000001.1_594
+COG3161	H	4-hydroxybenzoate synthetase (chorismate-pyruvate lyase)	ubic	Ubiquinone biosynthesis	nan	1FW9	NZ_FNIK01000010.1_185
+COG0382	H	4-hydroxybenzoate polyprenyltransferase	ubia	Ubiquinone biosynthesis	28830929	4OD4	NZ_FNIK01000010.1_184
+COG1044	M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	lpxd	Lipid A biosynthesis	nan	6P83	NZ_FNIK01000008.1_124
+COG1613	P	ABC-type sulfate transport system, periplasmic component	sbp	nan	nan	5UM2	NZ_FNIK01000009.1_201
+COG3856	S	Small basic protein Sbp (function unknown), DUF1290 domain	sbp	nan	nan	nan	NZ_FNIK01000009.1_201
+COG1452	M	LPS assembly outer membrane protein LptD (organic solvent tolerance protein OstA)	lptd	nan	nan	4N4R	NZ_FNIK01000002.1_357

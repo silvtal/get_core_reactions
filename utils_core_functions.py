@@ -88,7 +88,7 @@ def consensus_eggnog(wd, outputdir, outputname="", perc=0.8, sep="\t"):
             models.append(wd+"/"+filename)
     
     if len(models) == 0:
-        quit("The input file is empty.")
+        sys.exit("The input file is empty.")
     else:
         num_of_models = len(models)
     
