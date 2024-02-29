@@ -1,0 +1,170 @@
+Isocitrate dehydrogenase (NADP(+)).
+Tyrosine--tRNA ligase.
+Phosphoribosylaminoimidazole carboxylase.
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin).
+Tryptophan--tRNA ligase.
+Uroporphyrinogen decarboxylase.
+Phospho-N-acetylmuramoyl-pentapeptide-transferase.
+Chorismate synthase.
+Alanine dehydrogenase.
+Dihydroxy-acid dehydratase.
+Dihydroxy-acid dehydratase.
+Arginine--tRNA ligase.
+Ribose-5-phosphate isomerase.
+Phosphoribosylformylglycinamidine cyclo-ligase.
+Pantothenate kinase.
+Diacylglycerol kinase (ATP).
+Diacylglycerol kinase (ATP).
+Diacylglycerol kinase (ATP).
+Diacylglycerol kinase (ATP).
+Diacylglycerol kinase (ATP).
+Diacylglycerol kinase (ATP).
+Diacylglycerol kinase (ATP).
+Ribose-phosphate diphosphokinase.
+Serine--tRNA ligase.
+1-deoxy-D-xylulose-5-phosphate reductoisomerase.
+Dihydrolipoyl dehydrogenase.
+Purine-nucleoside phosphorylase.
+IMP dehydrogenase.
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase.
+Phosphoenolpyruvate--protein phosphotransferase.
+Transferred entry: 7.1.1.3.
+23S rRNA pseudouridine(1911/1915/1917) synthase.
+Superoxide dismutase.
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase.
+Uroporphyrinogen-III C-methyltransferase.
+5-formyltetrahydrofolate cyclo-ligase.
+tRNA uracil 4-sulfurtransferase.
+Glutamyl-tRNA reductase.
+Orotidine-5'-phosphate decarboxylase.
+Histidinol dehydrogenase.
+Aspartate 1-decarboxylase.
+Homoserine kinase.
+Phosphoglycerate mutase (2,3-diphosphoglycerate-independent).
+Cysteine--tRNA ligase.
+Adenine deaminase.
+5-(carboxyamino)imidazole ribonucleotide mutase.
+1-deoxy-D-xylulose-5-phosphate synthase.
+NAD(+) kinase.
+Isoleucine--tRNA ligase.
+Phenylalanine--tRNA ligase.
+Glycine hydroxymethyltransferase.
+CTP synthase (glutamine hydrolyzing).
+CTP synthase (glutamine hydrolyzing).
+Dihydropteroate synthase.
+Dihydropteroate synthase.
+Uracil phosphoribosyltransferase.
+ADP-ribose diphosphatase.
+Glycine dehydrogenase (aminomethyl-transferring).
+Glycine dehydrogenase (aminomethyl-transferring).
+Glycine dehydrogenase (aminomethyl-transferring).
+Glycine dehydrogenase (aminomethyl-transferring).
+Glycine dehydrogenase (aminomethyl-transferring).
+Glycine dehydrogenase (aminomethyl-transferring).
+GTP diphosphokinase.
+Arginine decarboxylase.
+Phosphoglycerate kinase.
+Adenylate kinase.
+Adenylate kinase.
+Adenylate kinase.
+Acetyl-CoA carboxytransferase.
+Transferred entry: 7.1.2.2.
+Acetyl-CoA carboxytransferase.
+Argininosuccinate synthase.
+4-hydroxy-tetrahydrodipicolinate reductase.
+3-hydroxyisobutyrate dehydrogenase.
+Proline--tRNA ligase.
+Phosphoribosylaminoimidazolecarboxamide formyltransferase.
+Dihydrofolate synthase.
+Dihydrofolate synthase.
+Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase.
+Threonine synthase.
+Adenylosuccinate lyase.
+Adenylosuccinate lyase.
+Glucose-6-phosphate isomerase.
+N-acetyl-gamma-glutamyl-phosphate reductase.
+Valine--tRNA ligase.
+Transferred entry: 2.3.1.267.
+Acetate kinase.
+Homoserine dehydrogenase.
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+Pyruvate dehydrogenase (acetyl-transferring).
+Glutamine--fructose-6-phosphate transaminase (isomerizing).
+GTP cyclohydrolase I.
+Pantetheine-phosphate adenylyltransferase.
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+tRNA (guanine(37)-N(1))-methyltransferase.
+dTMP kinase.
+Glutamate--tRNA ligase.
+Phosphoglycerate kinase.
+Beta-ketoacyl-[acyl-carrier-protein] synthase II.
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acidsynthase.
+Amidophosphoribosyltransferase.
+Phosphoribosylamine--glycine ligase.
+Heme o synthase.
+Methionyl-tRNA formyltransferase.
+UMP kinase.
+Phosphatidate cytidylyltransferase.
+tRNA pseudouridine(55) synthase.
+Cardiolipin synthase (CMP-forming).
+Aconitate hydratase.
+Transferred entry: 7.3.2.1.
+3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring).
+Pyrimidine-nucleoside phosphorylase.
+Glutamate-1-semialdehyde 2,1-aminomutase.
+Dephospho-CoA kinase.
+Transferred entry: 7.1.2.2.
+UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing).
+Uracil phosphoribosyltransferase.
+Phosphoglucosamine mutase.
+Phosphoribosyl-AMP cyclohydrolase.
+Uridine/cytidine kinase.
+D-alanine--D-alanine ligase.
+D-alanine--D-alanine ligase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase.
+Lysyltransferase.
+Aspartate kinase.
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase.
+Phosphoribosylaminoimidazolesuccinocarboxamide synthase.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+Beta-ketoacyl-[acyl-carrier-protein] synthase III.
+2-dehydropantoate 2-reductase.
+Aspartate carbamoyltransferase.
+Dihydroorotate dehydrogenase (NAD(+)).
+Orotate phosphoribosyltransferase.
+Guanylate kinase.
+Guanylate kinase.
+Guanylate kinase.
+3-methyl-2-oxobutanoate hydroxymethyltransferase.
+Prephenate dehydrogenase.
+Prephenate dehydratase.
+XTP/dITP diphosphatase.
+6-phosphofructokinase.
+6-phosphofructokinase.
+Isochorismate synthase.
+Ferredoxin--NADP(+) reductase.
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase.
+ATPF0A, atpB; F-type H+-transporting ATPase subunit a
+sufC; Fe-S cluster assembly ATP-binding protein
+ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+uraA, pyrP; uracil permease
+ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+TC.NCS2; nucleobase:cation symporter-2, NCS2 family
+pbuX; xanthine permease
+tuf, TUFM; elongation factor Tu
+pyrDII; dihydroorotate dehydrogenase electron transfer subunit
+metN; D-methionine transport system ATP-binding protein

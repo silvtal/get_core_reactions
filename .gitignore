@@ -2,3 +2,6 @@ __pycache__
 taxonomias_conocidas.ods
 .ipynb_checkpoints
 4__COGclassification.py
+consenso_nodos.R
+consenso_EGG.py
+all_0.01_nodes_plus_one.csv

@@ -1,0 +1,118 @@
+Pyruvate kinase.
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+D-alanine--D-alanine ligase.
+Demethylmenaquinone methyltransferase.
+Uroporphyrinogen decarboxylase.
+Phospho-N-acetylmuramoyl-pentapeptide-transferase.
+Chorismate synthase.
+CTP synthase (glutamine hydrolyzing).
+CTP synthase (glutamine hydrolyzing).
+Malate dehydrogenase (oxaloacetate-decarboxylating).
+Phosphoribosylformylglycinamidine cyclo-ligase.
+Phosphoglucosamine mutase.
+Pantothenate kinase.
+Caffeoyl-CoA reductase.
+Caffeoyl-CoA reductase.
+Ribokinase.
+1-deoxy-D-xylulose-5-phosphate reductoisomerase.
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+Guanylate kinase.
+Non-specific serine/threonine protein kinase.
+23S rRNA pseudouridine(1911/1915/1917) synthase.
+Alanine racemase.
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase.
+Phenylacetyl-CoA 1,2-epoxidase.
+Fumarate hydratase.
+Porphobilinogen synthase.
+Transferred entry: 7.1.1.7.
+16S rRNA (cytosine(967)-C(5))-methyltransferase.
+UDP-N-acetylmuramate dehydrogenase.
+Aerobic 5,6-dimethylbenzimidazole synthase.
+Glycine dehydrogenase (aminomethyl-transferring).
+Acetolactate synthase.
+Histidinol dehydrogenase.
+Aspartate 1-decarboxylase.
+Homoserine kinase.
+5-(carboxyamino)imidazole ribonucleotide synthase.
+3-isopropylmalate dehydratase.
+Ferredoxin--NAD(+) reductase.
+1-deoxy-D-xylulose-5-phosphate synthase.
+Phosphoribosylaminoimidazolecarboxamide formyltransferase.
+Phosphoribosylaminoimidazolecarboxamide formyltransferase.
+Uracil phosphoribosyltransferase.
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin).
+Acetylglutamate kinase.
+Adenosylcobyric acid synthase (glutamine-hydrolyzing).
+Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing).
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+Diaminopimelate epimerase.
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase.
+3-dehydroquinate dehydratase.
+Glucose-6-phosphate dehydrogenase (NAD(P)(+)).
+Transferred entry: 7.1.2.2.
+Argininosuccinate lyase.
+Transferred entry: 7.1.1.9.
+4-hydroxy-tetrahydrodipicolinate reductase.
+Glucosamine-1-phosphate N-acetyltransferase.
+Glutamate synthase (NADPH).
+5-(carboxyamino)imidazole ribonucleotide mutase.
+GMP synthase (glutamine-hydrolyzing).
+Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase.
+Glutamate-5-semialdehyde dehydrogenase.
+Threonine ammonia-lyase.
+Threonine ammonia-lyase.
+Threonine synthase.
+UDP-glucose 4-epimerase.
+Magnesium chelatase.
+Cystathionine gamma-synthase.
+Oxoglutarate dehydrogenase (succinyl-transferring).
+Homoserine dehydrogenase.
+Phosphoribosyl-AMP cyclohydrolase.
+Cysteine--tRNA ligase.
+Shikimate dehydrogenase.
+Corrinoid adenosyltransferase.
+3-isopropylmalate dehydratase.
+Transferred entry: 7.1.1.2.
+Adenosine deaminase.
+tRNA (guanine(37)-N(1))-methyltransferase.
+Pantoate--beta-alanine ligase (AMP-forming).
+Inorganic diphosphatase.
+Transferred entry: 7.1.1.7.
+Transferred entry: 7.1.1.7.
+Thioredoxin-disulfide reductase.
+dCTP deaminase.
+Transferred entry: 1.11.1.24.
+Transferred entry: 1.11.1.24.
+Pyruvate dehydrogenase (acetyl-transferring).
+UMP kinase.
+Glycine--tRNA ligase.
+Glutamate-1-semialdehyde 2,1-aminomutase.
+Glutamyl-tRNA reductase.
+Riboflavin synthase.
+Transferred entry: 7.1.1.2.
+Transferred entry: 7.1.1.2.
+Transferred entry: 7.1.1.2.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Thiamine-phosphate kinase.
+Phosphoribosylaminoimidazolesuccinocarboxamide synthase.
+Aspartate carbamoyltransferase.
+Fructose-bisphosphate aldolase.
+qcrA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+K15878, narB; rieske iron-sulfur protein
+pstC; phosphate transport system permease protein
+pstA; phosphate transport system permease protein
+sufD; Fe-S cluster assembly protein SufD
+pstC; phosphate transport system permease protein
+pstA; phosphate transport system permease protein
+ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+ABC.MS.P; multiple sugar transport system permease protein
+msmF; raffinose/stachyose/melibiose transport system permease protein
+ngcF; N-acetylglucosamine transport system permease protein
+aglF, ggtC; alpha-glucoside transport system permease protein
+thuF, sugA; trehalose/maltose transport system permease protein
+cebF; cellobiose transport system permease protein
+ganP, mdxF; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+dasB; N,N'-diacetylchitobiose transport system permease protein
+acuC; acetoin utilization protein AcuC

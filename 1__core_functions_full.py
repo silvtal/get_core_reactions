@@ -28,13 +28,20 @@ import Bio.KEGG.REST
 
 wkdir = "/home/silvia/repos/get_core_reactions"
 os.chdir(wkdir)
-nodes = ["Node13286", "Node15327", "Node17416", "Node21165", "Node45983", "Node54724", "Node55822", "Node70899", "Node71253", "Node101358", "Node115604", "Node116106", "Node119364"]
+
+##nodes = ["Node13286", "Node15327", "Node17416", "Node21165", "Node45983", "Node54724", "Node55822", "Node70899", "Node71253", "Node101358", "Node115604", "Node116106", "Node119364"] #> 1%
+##nodes = ["Node15327", "Node17416", "Node21165", "Node45983", "Node54724", "Node55822", "Node119364", "Node137058"] #> 0.5% + un octavo pcg
+nodes = ["Node15327", "Node19398", "Node21166", "Node28120", "Node45985", "Node52227", "Node53994", "Node55420", "Node55904", "Node119365", "Node126898", "Node147305", "Node17416", "Node45983", "Node54724", "Node55822", "Node119364"]
 
 for node in nodes:
     
     ## variables ==============================================================
-    annotations_folder = "/home/silvia/annots_pangenomes_2022_12_14/" + node + "_annots"
-    perc = 0.80
+    # annotations_folder = "/home/silvia/annots_pangenomes_2022_12_14/" + node + "_annots" #> 1% y creo que 137058
+    annotations_folder = "/home/silvia/annotated_genomes_per_pcg_COHERENT/" + node + "/annotated_genomes" #> all coherent nodes 1% and 0.5%
+    ## ORIGIN:
+    ## /home/silviatm/micro/TFM/annotated_genomes_per_pcg/Node*/annotated_genomes
+    ## launch_consenso_nodos; /home/silviatm/micro/TFM/all_0.01_nodes_plus_one.csv
+    perc = 0.90
     pangenome_folder = "pangenomes" + str(perc) # 90%
     if not os.path.exists(pangenome_folder):
         os.makedirs(pangenome_folder)
@@ -45,7 +52,7 @@ for node in nodes:
     enzyme_dat = "./EC"
 
     # output ==================================================================
-    output_folder = "./analisis_pans90/anotaciones_90"
+    output_folder = "./analisis_pans" + str(100*perc) + "/anotaciones_" + str(100*perc)
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
     descriptions_output = output_folder+"/"+node+'_descriptions.txt'

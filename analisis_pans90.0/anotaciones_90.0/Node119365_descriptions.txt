@@ -1,0 +1,107 @@
+Pyruvate kinase.
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+D-alanine--D-alanine ligase.
+Demethylmenaquinone methyltransferase.
+Lysine--tRNA ligase.
+Uroporphyrinogen decarboxylase.
+Phospho-N-acetylmuramoyl-pentapeptide-transferase.
+Amino-acid N-acetyltransferase.
+Chorismate synthase.
+CTP synthase (glutamine hydrolyzing).
+CTP synthase (glutamine hydrolyzing).
+Arginine--tRNA ligase.
+Phosphoribosylformylglycinamidine cyclo-ligase.
+Phosphoglucosamine mutase.
+Phosphoenolpyruvate carboxykinase (GTP).
+Phosphoenolpyruvate carboxykinase (GTP).
+Glucose-1-phosphate adenylyltransferase.
+Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent).
+1-deoxy-D-xylulose-5-phosphate reductoisomerase.
+Carbamoyl-phosphate synthase (glutamine-hydrolyzing).
+Magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase.
+Non-specific serine/threonine protein kinase.
+23S rRNA pseudouridine(1911/1915/1917) synthase.
+Alanine racemase.
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase.
+Porphobilinogen synthase.
+Transferred entry: 7.1.1.7.
+16S rRNA (cytosine(967)-C(5))-methyltransferase.
+UDP-N-acetylmuramate dehydrogenase.
+2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming).
+1,4-dihydroxy-2-naphthoate polyprenyltransferase.
+Glycine dehydrogenase (aminomethyl-transferring).
+Phosphoribosyl-AMP cyclohydrolase.
+Transferred entry: 7.3.2.5.
+Acetolactate synthase.
+Histidinol dehydrogenase.
+Homoserine kinase.
+5-(carboxyamino)imidazole ribonucleotide synthase.
+3-isopropylmalate dehydratase.
+1-deoxy-D-xylulose-5-phosphate synthase.
+Phosphoribosylaminoimidazolecarboxamide formyltransferase.
+Phosphoribosylaminoimidazolecarboxamide formyltransferase.
+Uracil phosphoribosyltransferase.
+(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin).
+Acetylglutamate kinase.
+Orotate phosphoribosyltransferase.
+Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing).
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase.
+Diaminopimelate epimerase.
+3-dehydroquinate dehydratase.
+Glucose-6-phosphate dehydrogenase (NAD(P)(+)).
+Transferred entry: 7.1.2.2.
+Argininosuccinate lyase.
+Transferred entry: 7.1.1.9.
+Glucosamine-1-phosphate N-acetyltransferase.
+5-(carboxyamino)imidazole ribonucleotide mutase.
+Orotate phosphoribosyltransferase.
+GMP synthase (glutamine-hydrolyzing).
+Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase.
+Glutamate-5-semialdehyde dehydrogenase.
+Threonine synthase.
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase.
+Oxoglutarate dehydrogenase (succinyl-transferring).
+Homoserine dehydrogenase.
+Phosphoribosyl-AMP cyclohydrolase.
+UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase.
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase.
+Dihydrofolate synthase.
+Shikimate dehydrogenase.
+Glutamate--tRNA ligase.
+O-acetylhomoserine aminocarboxypropyltransferase.
+Glutamine--fructose-6-phosphate transaminase (isomerizing).
+tRNA (guanine(37)-N(1))-methyltransferase.
+Inorganic diphosphatase.
+Aspartate-semialdehyde dehydrogenase.
+Transferred entry: 7.1.1.7.
+Transferred entry: 7.1.1.7.
+Thioredoxin-disulfide reductase.
+dCTP deaminase.
+Transferred entry: 1.11.1.24.
+Transferred entry: 1.11.1.24.
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acidsynthase.
+Pyruvate dehydrogenase (acetyl-transferring).
+UMP kinase.
+Glycine--tRNA ligase.
+Glutamate-1-semialdehyde 2,1-aminomutase.
+Glutamyl-tRNA reductase.
+Riboflavin synthase.
+o-succinylbenzoate synthase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Serine-type D-Ala-D-Ala carboxypeptidase.
+Thiamine-phosphate kinase.
+Phosphoribosylaminoimidazolesuccinocarboxamide synthase.
+Aspartate carbamoyltransferase.
+Fructose-bisphosphate aldolase.
+qcrA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+K15878, narB; rieske iron-sulfur protein
+pstC; phosphate transport system permease protein
+pstA; phosphate transport system permease protein
+sufD; Fe-S cluster assembly protein SufD
+uraA, pyrP; uracil permease
+TC.NCS2; nucleobase:cation symporter-2, NCS2 family
+rutG; putative pyrimidine permease RutG
+pstC; phosphate transport system permease protein
+pstA; phosphate transport system permease protein
+ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
