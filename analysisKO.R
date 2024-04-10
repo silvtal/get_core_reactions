@@ -14,7 +14,7 @@ nodes <- c("Node119365", "Node126898", "Node147305",
 
 # nota: porque quiero ver el pangenoma exclusivo de cada PCG, pero exclusivo no entre ellos mismos sino en toda la comunidad.
 nodes_all20 <- c("Node13271", "Node13287", "Node15327", "Node19398", "Node21166", "Node28120", "Node45985", "Node52227", "Node53994", "Node55420", "Node55904", "Node70899", "Node71253", "Node101358", "Node115605", "Node117321", "Node119365", "Node126898", "Node137058", "Node147305")
-  
+
 input_folder <- "/home/silvia/AAA/2023-05-05_Metagenoma_minimo/results_picrust2_PCG_all20/KOs" # ídem nota
 save_dir <- "/home/silvia/AAA/2024-01-03_plot_pangenomes"
 prefix_pan <- "pan90_"
@@ -114,7 +114,7 @@ for (node in nodes) {
     KODescription = ko2description[kos90[not_na]],
     row.names = NULL
   )
-  pans90_FULL[[node]] <- data.frame(
+  pans90_FULL[[node]] <- data.frame( # solo para mirar cosillas, NO es para los plots
     KO = kos90,#[not_na],
     pathways = pathways90,#[not_na],
     Description = descriptions90,#[not_na],
@@ -137,10 +137,10 @@ for (node in names(pans90)) { # no hago node in nodes por si falta alguno!
       scale_x_discrete(position = "bottom") +
       coord_flip(clip = "off") +  # Horizontal bars
       geom_text(aes(label =  Description),
-               color = "black",
-               stat="count",
-               size = 4,
-               position = position_dodge(width= 1), hjust=-0.05) +
+                color = "black",
+                stat="count",
+                size = 4,
+                position = position_dodge(width= 1), hjust=-0.05) +
       labs(title = titleplot1,
            x = NULL,
            y = NULL) +
@@ -227,7 +227,7 @@ for (node in names(pathways_dfs)) { # no hago node in nodes por si falta alguno!
             plot.margin = margin(0,
                                  6*max(nchar(summary_df$Description)),
                                  0,0)
-            ) # Hide legend
+      ) # Hide legend
     plots2[[node]] <- theplot
   }
 }
@@ -248,7 +248,31 @@ save.image(paste0(save_dir, "/", imagename))
 
 
 
-# see tax for otus.
+
+
+
+# save all to a single table
+library(tidyr)
+transform_table <- function(df) {
+  df %>%
+    group_by(pathways, Description) %>%
+    summarise(Count = n()) %>%
+    ungroup()
+}
+transformed_list <- lapply(pathways_dfs, transform_table)
+merged_df <- Reduce(function(x, y) merge(x, y, by = c("pathways", "Description"), all = TRUE), transformed_list)
+colnames(merged_df) <- c("Pathway", "Description", names(pathways_dfs))
+merged_df[is.na(merged_df)] <- 0
+merged_df <- merged_df[order(rowSums(merged_df[3:14]), decreasing = T),]
+write.csv(merged_df, "~/Documents/tesis_final/data/all_exclusive_metagenome_feats.csv", row.names = F)
+
+
+
+
+
+
+
+# this is to see tax for otus.
 plots_g <- list()
 tax_f <- "~/AAA/2023-05-05_Metagenoma_minimo/tomate_bc_0.005/Tree/0.99/table.from_biom_0.99.txt"
 tax   <- read.table(tax_f, sep="\t", row.names = 1)[41]
@@ -266,9 +290,6 @@ for (node in nodes_all20) {
     theme_minimal() +
     theme(axis.text.x = element_text(angle = 45, hjust = 1), legend.text = element_text(size = 7))
 }
-pdf("~/borrarpdf.pdf", width = 6, height = 6)
-plots_g
-dev.off()
 
 
 if (FALSE) {
